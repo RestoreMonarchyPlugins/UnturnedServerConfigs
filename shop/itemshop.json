@@ -1,0 +1,6332 @@
+[
+  {
+    "ID": 2,
+    "ItemName": "Work Jeans",
+    "BuyPrice": 60.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 3,
+    "ItemName": "Orange Hoodie",
+    "BuyPrice": 80.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 4,
+    "ItemName": "Eaglefire",
+    "BuyPrice": 2500.00,
+    "SellPrice": 200.00
+  },
+  {
+    "ID": 5,
+    "ItemName": "Eaglefire Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 6,
+    "ItemName": "Military Magazine",
+    "BuyPrice": 150.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 7,
+    "ItemName": "Military Suppressor",
+    "BuyPrice": 150.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 8,
+    "ItemName": "Vertical Grip",
+    "BuyPrice": 150.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 9,
+    "ItemName": "Red Daypack",
+    "BuyPrice": 180.00,
+    "SellPrice": 55.00
+  },
+  {
+    "ID": 10,
+    "ItemName": "Police Vest",
+    "BuyPrice": 120.00,
+    "SellPrice": 35.00
+  },
+  {
+    "ID": 11,
+    "ItemName": "Red Bandana",
+    "BuyPrice": 60.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 13,
+    "ItemName": "Canned Beans",
+    "BuyPrice": 25.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 14,
+    "ItemName": "Bottled Water",
+    "BuyPrice": 25.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 15,
+    "ItemName": "Medkit",
+    "BuyPrice": 100.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 16,
+    "ItemName": "Camp Axe",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 17,
+    "ItemName": "Military Drum",
+    "BuyPrice": 750.00,
+    "SellPrice": 125.00
+  },
+  {
+    "ID": 18,
+    "ItemName": "Timberwolf",
+    "BuyPrice": 0.00,
+    "SellPrice": 750.00
+  },
+  {
+    "ID": 19,
+    "ItemName": "Timberwolf Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 20,
+    "ItemName": "Timberwolf Magazine",
+    "BuyPrice": 0.00,
+    "SellPrice": 150.00
+  },
+  {
+    "ID": 21,
+    "ItemName": "8x Scope",
+    "BuyPrice": 150.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 22,
+    "ItemName": "Cross Scope",
+    "BuyPrice": 60.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 27,
+    "ItemName": "Tophat",
+    "BuyPrice": 60.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 28,
+    "ItemName": "Portable Gas Can",
+    "BuyPrice": 400.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 29,
+    "ItemName": "Maple Fortification",
+    "BuyPrice": 150.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 30,
+    "ItemName": "Maple Barricade",
+    "BuyPrice": 150.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 31,
+    "ItemName": "Maple Floor",
+    "BuyPrice": 250.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 32,
+    "ItemName": "Maple Doorway",
+    "BuyPrice": 250.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 33,
+    "ItemName": "Maple Wall",
+    "BuyPrice": 250.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 34,
+    "ItemName": "Maple Window",
+    "BuyPrice": 250.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 35,
+    "ItemName": "Maple Roof",
+    "BuyPrice": 250.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 36,
+    "ItemName": "Maple Pillar",
+    "BuyPrice": 200.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 37,
+    "ItemName": "Birch Log",
+    "BuyPrice": 75.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 38,
+    "ItemName": "Birch Stick",
+    "BuyPrice": 20.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 39,
+    "ItemName": "Maple Log",
+    "BuyPrice": 75.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 40,
+    "ItemName": "Maple Stick",
+    "BuyPrice": 5.00,
+    "SellPrice": 0.50
+  },
+  {
+    "ID": 41,
+    "ItemName": "Pine Log",
+    "BuyPrice": 75.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 42,
+    "ItemName": "Pine Stick",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 43,
+    "ItemName": "Low Caliber Military Ammunition Crate",
+    "BuyPrice": 150.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 44,
+    "ItemName": "Low Caliber Civilian Ammunition Box",
+    "BuyPrice": 100.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 45,
+    "ItemName": "Birch Barricade",
+    "BuyPrice": 150.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 46,
+    "ItemName": "Pine Barricade",
+    "BuyPrice": 150.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 47,
+    "ItemName": "Birch Fortification",
+    "BuyPrice": 150.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 48,
+    "ItemName": "Pine Fortification",
+    "BuyPrice": 150.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 49,
+    "ItemName": "Birch Doorway",
+    "BuyPrice": 250.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 50,
+    "ItemName": "Pine Doorway",
+    "BuyPrice": 250.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 51,
+    "ItemName": "Birch Floor",
+    "BuyPrice": 250.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 52,
+    "ItemName": "Pine Floor",
+    "BuyPrice": 250.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 53,
+    "ItemName": "Birch Pillar",
+    "BuyPrice": 250.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 54,
+    "ItemName": "Pine Pillar",
+    "BuyPrice": 250.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 55,
+    "ItemName": "Birch Roof",
+    "BuyPrice": 250.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 56,
+    "ItemName": "Pine Roof",
+    "BuyPrice": 250.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 57,
+    "ItemName": "Birch Wall",
+    "BuyPrice": 250.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 58,
+    "ItemName": "Pine Wall",
+    "BuyPrice": 250.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 59,
+    "ItemName": "Birch Window",
+    "BuyPrice": 250.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 60,
+    "ItemName": "Pine Window",
+    "BuyPrice": 250.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 61,
+    "ItemName": "Maple Plank",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 62,
+    "ItemName": "Birch Plank",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 63,
+    "ItemName": "Pine Plank",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 64,
+    "ItemName": "Rope",
+    "BuyPrice": 50.00,
+    "SellPrice": 3.00
+  },
+  {
+    "ID": 65,
+    "ItemName": "Wire",
+    "BuyPrice": 175.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 66,
+    "ItemName": "Cloth",
+    "BuyPrice": 25.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 67,
+    "ItemName": "Metal Scrap",
+    "BuyPrice": 50.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 68,
+    "ItemName": "Metal Sheet",
+    "BuyPrice": 100.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 69,
+    "ItemName": "Tape",
+    "BuyPrice": 25.00,
+    "SellPrice": 3.00
+  },
+  {
+    "ID": 70,
+    "ItemName": "Glue",
+    "BuyPrice": 125.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 71,
+    "ItemName": "Nails",
+    "BuyPrice": 15.00,
+    "SellPrice": 3.00
+  },
+  {
+    "ID": 72,
+    "ItemName": "Metal Can",
+    "BuyPrice": 15.00,
+    "SellPrice": 3.00
+  },
+  {
+    "ID": 73,
+    "ItemName": "Raw Explosives",
+    "BuyPrice": 0.00,
+    "SellPrice": 125.00
+  },
+  {
+    "ID": 74,
+    "ItemName": "Bricks",
+    "BuyPrice": 150.00,
+    "SellPrice": 35.00
+  },
+  {
+    "ID": 75,
+    "ItemName": "Chemicals",
+    "BuyPrice": 200.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 76,
+    "ItemName": "Blowtorch",
+    "BuyPrice": 200.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 77,
+    "ItemName": "Canned Tomato Soup",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 78,
+    "ItemName": "Canned Chicken Soup",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 79,
+    "ItemName": "Canned Tuna",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 80,
+    "ItemName": "Canned Cola",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 81,
+    "ItemName": "MRE",
+    "BuyPrice": 200.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 82,
+    "ItemName": "Chips",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 83,
+    "ItemName": "Chocolate Bar",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 84,
+    "ItemName": "Candy Bar",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 85,
+    "ItemName": "Granola Bar",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 86,
+    "ItemName": "Energy Bar",
+    "BuyPrice": 20.00,
+    "SellPrice": 4.00
+  },
+  {
+    "ID": 87,
+    "ItemName": "Canned Pasta",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 88,
+    "ItemName": "Canned Bacon",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 89,
+    "ItemName": "Canned Beef",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 90,
+    "ItemName": "Canned Sardines",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 91,
+    "ItemName": "Apple Juice",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 92,
+    "ItemName": "Grape Juice",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 93,
+    "ItemName": "Bottled Energy",
+    "BuyPrice": 20.00,
+    "SellPrice": 4.00
+  },
+  {
+    "ID": 94,
+    "ItemName": "Bottled Coconut",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 95,
+    "ItemName": "Bandage",
+    "BuyPrice": 25.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 96,
+    "ItemName": "Splint",
+    "BuyPrice": 25.00,
+    "SellPrice": 4.00
+  },
+  {
+    "ID": 97,
+    "ItemName": "1911",
+    "BuyPrice": 300.00,
+    "SellPrice": 75.00
+  },
+  {
+    "ID": 98,
+    "ItemName": "1911 Magazine",
+    "BuyPrice": 75.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 99,
+    "ItemName": "Cobra",
+    "BuyPrice": 600.00,
+    "SellPrice": 100.00
+  },
+  {
+    "ID": 100,
+    "ItemName": "Cobra Magazine",
+    "BuyPrice": 100.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 101,
+    "ItemName": "Schofield",
+    "BuyPrice": 700.00,
+    "SellPrice": 100.00
+  },
+  {
+    "ID": 102,
+    "ItemName": "Schofield Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 103,
+    "ItemName": "Schofield Clip",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 104,
+    "ItemName": "Fire Axe",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 105,
+    "ItemName": "Baseball Bat",
+    "BuyPrice": 60.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 106,
+    "ItemName": "Hockey Stick",
+    "BuyPrice": 50.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 107,
+    "ItemName": "Ace",
+    "BuyPrice": 500.00,
+    "SellPrice": 100.00
+  },
+  {
+    "ID": 108,
+    "ItemName": "Ace Clip",
+    "BuyPrice": 75.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 109,
+    "ItemName": "Hawkhound",
+    "BuyPrice": 650.00,
+    "SellPrice": 100.00
+  },
+  {
+    "ID": 110,
+    "ItemName": "Hawkhound Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 111,
+    "ItemName": "Hawkhound Magazine",
+    "BuyPrice": 100.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 112,
+    "ItemName": "Bluntforce",
+    "BuyPrice": 2500.00,
+    "SellPrice": 200.00
+  },
+  {
+    "ID": 113,
+    "ItemName": "12 Gauge Shells",
+    "BuyPrice": 150.00,
+    "SellPrice": 35.00
+  },
+  {
+    "ID": 114,
+    "ItemName": "Bluntforce Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 115,
+    "ItemName": "Raw Mauve Berries",
+    "BuyPrice": 30.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 116,
+    "ItemName": "PDW",
+    "BuyPrice": 3000.00,
+    "SellPrice": 250.00
+  },
+  {
+    "ID": 118,
+    "ItemName": "PDW Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 119,
+    "ItemName": "Low Caliber Ranger Ammunition Box",
+    "BuyPrice": 150.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 120,
+    "ItemName": "Kitchen Knife",
+    "BuyPrice": 100.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 121,
+    "ItemName": "Military Knife",
+    "BuyPrice": 100.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 122,
+    "ItemName": "Zubeknakov",
+    "BuyPrice": 2500.00,
+    "SellPrice": 200.00
+  },
+  {
+    "ID": 123,
+    "ItemName": "Ranger Magazine",
+    "BuyPrice": 150.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 124,
+    "ItemName": "Zubeknakov Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 125,
+    "ItemName": "Ranger Drum",
+    "BuyPrice": 500.00,
+    "SellPrice": 75.00
+  },
+  {
+    "ID": 126,
+    "ItemName": "Nykorev",
+    "BuyPrice": 4000.00,
+    "SellPrice": 750.00
+  },
+  {
+    "ID": 127,
+    "ItemName": "Nykorev Box",
+    "BuyPrice": 1000.00,
+    "SellPrice": 200.00
+  },
+  {
+    "ID": 128,
+    "ItemName": "Nykorev Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 129,
+    "ItemName": "Snayperskya",
+    "BuyPrice": 2500.00,
+    "SellPrice": 175.00
+  },
+  {
+    "ID": 130,
+    "ItemName": "Snayperskya Magazine",
+    "BuyPrice": 260.00,
+    "SellPrice": 40.00
+  },
+  {
+    "ID": 131,
+    "ItemName": "Snayperskya Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 132,
+    "ItemName": "Dragonfang",
+    "BuyPrice": 0.00,
+    "SellPrice": 1500.00
+  },
+  {
+    "ID": 133,
+    "ItemName": "Dragonfang Box",
+    "BuyPrice": 0.00,
+    "SellPrice": 500.00
+  },
+  {
+    "ID": 134,
+    "ItemName": "Dragonfang Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 135,
+    "ItemName": "Golf Club",
+    "BuyPrice": 100.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 136,
+    "ItemName": "Sledgehammer",
+    "BuyPrice": 100.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 137,
+    "ItemName": "Butcher Knife",
+    "BuyPrice": 100.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 138,
+    "ItemName": "Hammer",
+    "BuyPrice": 60.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 139,
+    "ItemName": "Pocketknife",
+    "BuyPrice": 100.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 140,
+    "ItemName": "Butterfly Knife",
+    "BuyPrice": 100.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 141,
+    "ItemName": "Saw",
+    "BuyPrice": 150.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 142,
+    "ItemName": "Rake",
+    "BuyPrice": 80.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 143,
+    "ItemName": "Bipod",
+    "BuyPrice": 150.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 144,
+    "ItemName": "Ranger Suppressor",
+    "BuyPrice": 150.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 145,
+    "ItemName": "Horizontal Grip",
+    "BuyPrice": 150.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 146,
+    "ItemName": "Dot Sight",
+    "BuyPrice": 70.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 147,
+    "ItemName": "Halo Sight",
+    "BuyPrice": 70.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 148,
+    "ItemName": "Chevron Scope",
+    "BuyPrice": 150.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 149,
+    "ItemName": "Military Barrel",
+    "BuyPrice": 150.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 150,
+    "ItemName": "Military Muzzle",
+    "BuyPrice": 150.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 151,
+    "ItemName": "Tactical Laser",
+    "BuyPrice": 150.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 152,
+    "ItemName": "Tactical Light",
+    "BuyPrice": 150.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 153,
+    "ItemName": "7x Scope",
+    "BuyPrice": 150.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 154,
+    "ItemName": "Orange Shirt",
+    "BuyPrice": 60.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 155,
+    "ItemName": "Orange T-Shirt",
+    "BuyPrice": 55.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 156,
+    "ItemName": "Orange Parka",
+    "BuyPrice": 90.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 157,
+    "ItemName": "Purple Hoodie",
+    "BuyPrice": 80.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 158,
+    "ItemName": "Purple Shirt",
+    "BuyPrice": 60.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 159,
+    "ItemName": "Purple T-Shirt",
+    "BuyPrice": 55.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 160,
+    "ItemName": "Purple Parka",
+    "BuyPrice": 90.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 161,
+    "ItemName": "Green Hoodie",
+    "BuyPrice": 80.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 162,
+    "ItemName": "Green Parka",
+    "BuyPrice": 90.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 163,
+    "ItemName": "Green Shirt",
+    "BuyPrice": 60.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 164,
+    "ItemName": "Green T-Shirt",
+    "BuyPrice": 55.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 165,
+    "ItemName": "Red Hoodie",
+    "BuyPrice": 80.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 166,
+    "ItemName": "Red Parka",
+    "BuyPrice": 90.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 167,
+    "ItemName": "Red Shirt",
+    "BuyPrice": 60.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 168,
+    "ItemName": "Red T-Shirt",
+    "BuyPrice": 55.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 169,
+    "ItemName": "Yellow Hoodie",
+    "BuyPrice": 80.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 170,
+    "ItemName": "Yellow Parka",
+    "BuyPrice": 90.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 171,
+    "ItemName": "Yellow Shirt",
+    "BuyPrice": 60.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 172,
+    "ItemName": "Yellow T-Shirt",
+    "BuyPrice": 55.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 173,
+    "ItemName": "Blue Hoodie",
+    "BuyPrice": 80.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 174,
+    "ItemName": "Blue Parka",
+    "BuyPrice": 90.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 175,
+    "ItemName": "Blue Shirt",
+    "BuyPrice": 60.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 176,
+    "ItemName": "Blue T-Shirt",
+    "BuyPrice": 55.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 177,
+    "ItemName": "White Hoodie",
+    "BuyPrice": 80.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 178,
+    "ItemName": "White Parka",
+    "BuyPrice": 90.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 179,
+    "ItemName": "White Shirt",
+    "BuyPrice": 60.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 180,
+    "ItemName": "White T-Shirt",
+    "BuyPrice": 55.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 181,
+    "ItemName": "Black Hoodie",
+    "BuyPrice": 80.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 182,
+    "ItemName": "Black Parka",
+    "BuyPrice": 90.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 183,
+    "ItemName": "Black Shirt",
+    "BuyPrice": 60.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 184,
+    "ItemName": "Black T-Shirt",
+    "BuyPrice": 55.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 185,
+    "ItemName": "Black Bandana",
+    "BuyPrice": 60.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 186,
+    "ItemName": "Blue Bandana",
+    "BuyPrice": 60.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 187,
+    "ItemName": "Green Bandana",
+    "BuyPrice": 60.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 188,
+    "ItemName": "Orange Bandana",
+    "BuyPrice": 60.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 189,
+    "ItemName": "Purple Bandana",
+    "BuyPrice": 60.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 190,
+    "ItemName": "White Bandana",
+    "BuyPrice": 60.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 191,
+    "ItemName": "Yellow Bandana",
+    "BuyPrice": 60.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 192,
+    "ItemName": "Black Toque",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 193,
+    "ItemName": "Blue Toque",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 194,
+    "ItemName": "Green Toque",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 195,
+    "ItemName": "Orange Toque",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 196,
+    "ItemName": "Purple Toque",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 197,
+    "ItemName": "Red Toque",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 198,
+    "ItemName": "White Toque",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 199,
+    "ItemName": "Yellow Toque",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 200,
+    "ItemName": "Black Daypack",
+    "BuyPrice": 180.00,
+    "SellPrice": 55.00
+  },
+  {
+    "ID": 201,
+    "ItemName": "Blue Daypack",
+    "BuyPrice": 180.00,
+    "SellPrice": 55.00
+  },
+  {
+    "ID": 202,
+    "ItemName": "Green Daypack",
+    "BuyPrice": 180.00,
+    "SellPrice": 55.00
+  },
+  {
+    "ID": 203,
+    "ItemName": "Orange Daypack",
+    "BuyPrice": 180.00,
+    "SellPrice": 55.00
+  },
+  {
+    "ID": 204,
+    "ItemName": "Purple Daypack",
+    "BuyPrice": 180.00,
+    "SellPrice": 55.00
+  },
+  {
+    "ID": 205,
+    "ItemName": "White Daypack",
+    "BuyPrice": 180.00,
+    "SellPrice": 55.00
+  },
+  {
+    "ID": 206,
+    "ItemName": "Yellow Daypack",
+    "BuyPrice": 180.00,
+    "SellPrice": 55.00
+  },
+  {
+    "ID": 207,
+    "ItemName": "Outfit Jeans",
+    "BuyPrice": 65.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 208,
+    "ItemName": "Cowboy Jeans",
+    "BuyPrice": 55.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 209,
+    "ItemName": "Cargo Pants",
+    "BuyPrice": 150.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 211,
+    "ItemName": "Plaid Shirt",
+    "BuyPrice": 0.00,
+    "SellPrice": 6.00
+  },
+  {
+    "ID": 212,
+    "ItemName": "Khaki Pants",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 213,
+    "ItemName": "Corduroy Pants",
+    "BuyPrice": 50.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 214,
+    "ItemName": "Trouser Pants",
+    "BuyPrice": 65.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 215,
+    "ItemName": "Black Sweatervest",
+    "BuyPrice": 80.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 216,
+    "ItemName": "Blue Sweatervest",
+    "BuyPrice": 80.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 217,
+    "ItemName": "Green Sweatervest",
+    "BuyPrice": 80.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 218,
+    "ItemName": "Orange Sweatervest",
+    "BuyPrice": 80.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 219,
+    "ItemName": "Purple Sweatervest",
+    "BuyPrice": 80.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 220,
+    "ItemName": "Red Sweatervest",
+    "BuyPrice": 80.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 221,
+    "ItemName": "White Sweatervest",
+    "BuyPrice": 80.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 222,
+    "ItemName": "Yellow Sweatervest",
+    "BuyPrice": 80.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 223,
+    "ItemName": "Police Top",
+    "BuyPrice": 70.00,
+    "SellPrice": 18.00
+  },
+  {
+    "ID": 224,
+    "ItemName": "Police Bottom",
+    "BuyPrice": 50.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 225,
+    "ItemName": "Police Cap",
+    "BuyPrice": 30.00,
+    "SellPrice": 6.00
+  },
+  {
+    "ID": 226,
+    "ItemName": "Khaki Shorts",
+    "BuyPrice": 50.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 227,
+    "ItemName": "Cargo Shorts",
+    "BuyPrice": 125.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 228,
+    "ItemName": "Corduroy Shorts",
+    "BuyPrice": 45.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 229,
+    "ItemName": "Trouser Shorts",
+    "BuyPrice": 55.00,
+    "SellPrice": 14.00
+  },
+  {
+    "ID": 230,
+    "ItemName": "Chef Top",
+    "BuyPrice": 60.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 231,
+    "ItemName": "Chef Bottom",
+    "BuyPrice": 45.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 232,
+    "ItemName": "Construction Top",
+    "BuyPrice": 50.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 233,
+    "ItemName": "Firefighter Top",
+    "BuyPrice": 75.00,
+    "SellPrice": 18.00
+  },
+  {
+    "ID": 234,
+    "ItemName": "Firefighter Bottom",
+    "BuyPrice": 100.00,
+    "SellPrice": 14.00
+  },
+  {
+    "ID": 235,
+    "ItemName": "Ghillie Top",
+    "BuyPrice": 150.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 236,
+    "ItemName": "Ghillie Bottom",
+    "BuyPrice": 150.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 237,
+    "ItemName": "Ghillie Hood",
+    "BuyPrice": 150.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 238,
+    "ItemName": "Ghillie Vest",
+    "BuyPrice": 180.00,
+    "SellPrice": 40.00
+  },
+  {
+    "ID": 239,
+    "ItemName": "Chef Hat",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 240,
+    "ItemName": "Construction Helmet",
+    "BuyPrice": 100.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 241,
+    "ItemName": "Firefighter Helmet",
+    "BuyPrice": 100.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 242,
+    "ItemName": "Farmer Top",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 243,
+    "ItemName": "Farmer Bottom",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 244,
+    "ItemName": "Farmer Hat",
+    "BuyPrice": 15.00,
+    "SellPrice": 3.00
+  },
+  {
+    "ID": 245,
+    "ItemName": "Black Travelpack",
+    "BuyPrice": 220.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 246,
+    "ItemName": "Blue Travelpack",
+    "BuyPrice": 220.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 247,
+    "ItemName": "Green Travelpack",
+    "BuyPrice": 220.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 248,
+    "ItemName": "Orange Travelpack",
+    "BuyPrice": 220.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 249,
+    "ItemName": "Purple Travelpack",
+    "BuyPrice": 220.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 250,
+    "ItemName": "Red Travelpack",
+    "BuyPrice": 220.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 251,
+    "ItemName": "White Travelpack",
+    "BuyPrice": 220.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 252,
+    "ItemName": "Yellow Travelpack",
+    "BuyPrice": 220.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 253,
+    "ItemName": "Alicepack",
+    "BuyPrice": 800.00,
+    "SellPrice": 120.00
+  },
+  {
+    "ID": 254,
+    "ItemName": "Fragmentation Grenade",
+    "BuyPrice": 0.00,
+    "SellPrice": 200.00
+  },
+  {
+    "ID": 255,
+    "ItemName": "Blue Flare",
+    "BuyPrice": 20.00,
+    "SellPrice": 4.00
+  },
+  {
+    "ID": 256,
+    "ItemName": "Green Flare",
+    "BuyPrice": 20.00,
+    "SellPrice": 4.00
+  },
+  {
+    "ID": 257,
+    "ItemName": "Orange Flare",
+    "BuyPrice": 20.00,
+    "SellPrice": 4.00
+  },
+  {
+    "ID": 258,
+    "ItemName": "Purple Flare",
+    "BuyPrice": 20.00,
+    "SellPrice": 4.00
+  },
+  {
+    "ID": 259,
+    "ItemName": "Red Flare",
+    "BuyPrice": 20.00,
+    "SellPrice": 4.00
+  },
+  {
+    "ID": 260,
+    "ItemName": "Yellow Flare",
+    "BuyPrice": 20.00,
+    "SellPrice": 4.00
+  },
+  {
+    "ID": 261,
+    "ItemName": "Black Smoke",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 262,
+    "ItemName": "Blue Smoke",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 263,
+    "ItemName": "Green Smoke",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 264,
+    "ItemName": "Orange Smoke",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 265,
+    "ItemName": "Purple Smoke",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 266,
+    "ItemName": "Red Smoke",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 267,
+    "ItemName": "White Smoke",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 268,
+    "ItemName": "Yellow Smoke",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 269,
+    "ItemName": "Vaccine",
+    "BuyPrice": 120.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 270,
+    "ItemName": "Raw Amber Berries",
+    "BuyPrice": 30.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 271,
+    "ItemName": "Raw Indigo Berries",
+    "BuyPrice": 30.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 272,
+    "ItemName": "Raw Jade Berries",
+    "BuyPrice": 30.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 273,
+    "ItemName": "Raw Russet Berries",
+    "BuyPrice": 30.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 274,
+    "ItemName": "Raw Teal Berries",
+    "BuyPrice": 30.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 275,
+    "ItemName": "Raw Vermillion Berries",
+    "BuyPrice": 30.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 276,
+    "ItemName": "Flashlight",
+    "BuyPrice": 70.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 277,
+    "ItemName": "Carjack ",
+    "BuyPrice": 200.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 281,
+    "ItemName": "Maple Door",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 282,
+    "ItemName": "Birch Door",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 283,
+    "ItemName": "Pine Door",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 284,
+    "ItemName": "Jail Door",
+    "BuyPrice": 350.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 285,
+    "ItemName": "Metal Bar",
+    "BuyPrice": 25.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 286,
+    "ItemName": "Vault Door",
+    "BuyPrice": 850.00,
+    "SellPrice": 150.00
+  },
+  {
+    "ID": 287,
+    "ItemName": "Bars Fortification",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 288,
+    "ItemName": "Black Bedroll",
+    "BuyPrice": 60.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 289,
+    "ItemName": "Blue Bedroll",
+    "BuyPrice": 60.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 290,
+    "ItemName": "Green Bedroll",
+    "BuyPrice": 60.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 291,
+    "ItemName": "Orange Bedroll",
+    "BuyPrice": 60.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 292,
+    "ItemName": "Purple Bedroll",
+    "BuyPrice": 60.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 293,
+    "ItemName": "Red Bedroll",
+    "BuyPrice": 60.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 294,
+    "ItemName": "White Bedroll",
+    "BuyPrice": 60.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 295,
+    "ItemName": "Yellow Bedroll",
+    "BuyPrice": 60.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 296,
+    "ItemName": "16x Scope",
+    "BuyPrice": 200.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 297,
+    "ItemName": "Grizzly",
+    "BuyPrice": 0.00,
+    "SellPrice": 750.00
+  },
+  {
+    "ID": 298,
+    "ItemName": "Grizzly Magazine",
+    "BuyPrice": 0.00,
+    "SellPrice": 100.00
+  },
+  {
+    "ID": 299,
+    "ItemName": "Grizzly Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 300,
+    "ItemName": "Shadowstalker",
+    "BuyPrice": 4500.00,
+    "SellPrice": 200.00
+  },
+  {
+    "ID": 301,
+    "ItemName": "Rail",
+    "BuyPrice": 0.00,
+    "SellPrice": 35.00
+  },
+  {
+    "ID": 302,
+    "ItemName": "Shadowstalker Scope",
+    "BuyPrice": 150.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 303,
+    "ItemName": "Prisoner Top",
+    "BuyPrice": 30.00,
+    "SellPrice": 6.00
+  },
+  {
+    "ID": 304,
+    "ItemName": "Prisoner Bottom",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 305,
+    "ItemName": "RCMP Bottom",
+    "BuyPrice": 45.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 306,
+    "ItemName": "RCMP Top",
+    "BuyPrice": 60.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 307,
+    "ItemName": "Forest Military Top",
+    "BuyPrice": 80.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 308,
+    "ItemName": "Forest Military Bottom",
+    "BuyPrice": 55.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 309,
+    "ItemName": "Forest Military Helmet",
+    "BuyPrice": 150.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 310,
+    "ItemName": "Forest Military Vest",
+    "BuyPrice": 200.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 311,
+    "ItemName": "Medic Top",
+    "BuyPrice": 50.00,
+    "SellPrice": 11.00
+  },
+  {
+    "ID": 312,
+    "ItemName": "Medic Bottom",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 313,
+    "ItemName": "RCMP Hat",
+    "BuyPrice": 30.00,
+    "SellPrice": 6.00
+  },
+  {
+    "ID": 314,
+    "ItemName": "Grocer Top",
+    "BuyPrice": 35.00,
+    "SellPrice": 7.00
+  },
+  {
+    "ID": 315,
+    "ItemName": "Grocer Bottom",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 316,
+    "ItemName": "Maple Stairs",
+    "BuyPrice": 250.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 317,
+    "ItemName": "Pine Stairs",
+    "BuyPrice": 250.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 318,
+    "ItemName": "Birch Stairs",
+    "BuyPrice": 250.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 319,
+    "ItemName": "Maple Hole",
+    "BuyPrice": 250.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 320,
+    "ItemName": "Pine Hole",
+    "BuyPrice": 250.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 321,
+    "ItemName": "Birch Hole",
+    "BuyPrice": 250.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 322,
+    "ItemName": "Maple Ramp",
+    "BuyPrice": 250.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 323,
+    "ItemName": "Birch Ramp",
+    "BuyPrice": 250.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 324,
+    "ItemName": "Pine Ramp",
+    "BuyPrice": 250.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 325,
+    "ItemName": "Maple Ladder",
+    "BuyPrice": 250.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 326,
+    "ItemName": "Birch Ladder",
+    "BuyPrice": 250.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 327,
+    "ItemName": "Pine Ladder",
+    "BuyPrice": 250.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 328,
+    "ItemName": "Locker",
+    "BuyPrice": 600.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 329,
+    "ItemName": "Carrot",
+    "BuyPrice": 15.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 330,
+    "ItemName": "Carrot Seed",
+    "BuyPrice": 15.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 331,
+    "ItemName": "Planter",
+    "BuyPrice": 80.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 332,
+    "ItemName": "Fertilizer ",
+    "BuyPrice": 20.00,
+    "SellPrice": 4.00
+  },
+  {
+    "ID": 333,
+    "ItemName": "Binoculars ",
+    "BuyPrice": 30.00,
+    "SellPrice": 6.00
+  },
+  {
+    "ID": 334,
+    "ItemName": "Military Nightvision",
+    "BuyPrice": 300.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 335,
+    "ItemName": "Corn",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 336,
+    "ItemName": "Corn Seed",
+    "BuyPrice": 15.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 337,
+    "ItemName": "Canteen",
+    "BuyPrice": 120.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 338,
+    "ItemName": "Lettuce",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 339,
+    "ItemName": "Lettuce Seed",
+    "BuyPrice": 15.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 340,
+    "ItemName": "Tomato",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 341,
+    "ItemName": "Tomato Seed",
+    "BuyPrice": 15.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 342,
+    "ItemName": "Potato",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 343,
+    "ItemName": "Potato Seed",
+    "BuyPrice": 15.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 344,
+    "ItemName": "Wheat",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 345,
+    "ItemName": "Wheat Seed",
+    "BuyPrice": 15.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 346,
+    "ItemName": "Crossbow",
+    "BuyPrice": 300.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 347,
+    "ItemName": "Arrow",
+    "BuyPrice": 50.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 348,
+    "ItemName": "Maple Arrow",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 349,
+    "ItemName": "Crossbow Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 351,
+    "ItemName": "Birch Arrow",
+    "BuyPrice": 25.00,
+    "SellPrice": 2.50
+  },
+  {
+    "ID": 352,
+    "ItemName": "Pine Arrow",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 353,
+    "ItemName": "Maple Bow",
+    "BuyPrice": 180.00,
+    "SellPrice": 35.00
+  },
+  {
+    "ID": 355,
+    "ItemName": "Birch Bow",
+    "BuyPrice": 180.00,
+    "SellPrice": 35.00
+  },
+  {
+    "ID": 356,
+    "ItemName": "Pine Bow",
+    "BuyPrice": 180.00,
+    "SellPrice": 35.00
+  },
+  {
+    "ID": 357,
+    "ItemName": "Compound Bow",
+    "BuyPrice": 230.00,
+    "SellPrice": 45.00
+  },
+  {
+    "ID": 358,
+    "ItemName": "Compound Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 359,
+    "ItemName": "Maple Torch",
+    "BuyPrice": 50.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 360,
+    "ItemName": "Birch Torch",
+    "BuyPrice": 50.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 361,
+    "ItemName": "Pine Torch",
+    "BuyPrice": 50.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 362,
+    "ItemName": "Campfire",
+    "BuyPrice": 80.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 363,
+    "ItemName": "Maplestrike",
+    "BuyPrice": 3000.00,
+    "SellPrice": 350.00
+  },
+  {
+    "ID": 364,
+    "ItemName": "Maplestrike Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 365,
+    "ItemName": "Sandbag",
+    "BuyPrice": 100.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 366,
+    "ItemName": "Maple Crate",
+    "BuyPrice": 200.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 367,
+    "ItemName": "Birch Crate",
+    "BuyPrice": 200.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 368,
+    "ItemName": "Pine Crate",
+    "BuyPrice": 200.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 369,
+    "ItemName": "Metal Floor",
+    "BuyPrice": 550.00,
+    "SellPrice": 120.00
+  },
+  {
+    "ID": 370,
+    "ItemName": "Metal Doorway",
+    "BuyPrice": 550.00,
+    "SellPrice": 120.00
+  },
+  {
+    "ID": 371,
+    "ItemName": "Metal Wall",
+    "BuyPrice": 550.00,
+    "SellPrice": 120.00
+  },
+  {
+    "ID": 372,
+    "ItemName": "Metal Window",
+    "BuyPrice": 550.00,
+    "SellPrice": 120.00
+  },
+  {
+    "ID": 373,
+    "ItemName": "Metal Roof",
+    "BuyPrice": 550.00,
+    "SellPrice": 120.00
+  },
+  {
+    "ID": 374,
+    "ItemName": "Metal Pillar",
+    "BuyPrice": 450.00,
+    "SellPrice": 100.00
+  },
+  {
+    "ID": 375,
+    "ItemName": "Metal Stairs",
+    "BuyPrice": 550.00,
+    "SellPrice": 120.00
+  },
+  {
+    "ID": 376,
+    "ItemName": "Metal Hole",
+    "BuyPrice": 550.00,
+    "SellPrice": 120.00
+  },
+  {
+    "ID": 377,
+    "ItemName": "Metal Ramp",
+    "BuyPrice": 550.00,
+    "SellPrice": 120.00
+  },
+  {
+    "ID": 378,
+    "ItemName": "Metal Door",
+    "BuyPrice": 350.00,
+    "SellPrice": 80.00
+  },
+  {
+    "ID": 379,
+    "ItemName": "Metal Ladder",
+    "BuyPrice": 350.00,
+    "SellPrice": 80.00
+  },
+  {
+    "ID": 380,
+    "ItemName": "Masterkey",
+    "BuyPrice": 1400.00,
+    "SellPrice": 150.00
+  },
+  {
+    "ID": 381,
+    "ItemName": "20 Gauge Shells",
+    "BuyPrice": 150.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 382,
+    "ItemName": "Caltrop",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 383,
+    "ItemName": "Maple Spikes",
+    "BuyPrice": 50.00,
+    "SellPrice": 4.00
+  },
+  {
+    "ID": 384,
+    "ItemName": "Birch Spikes",
+    "BuyPrice": 50.00,
+    "SellPrice": 4.00
+  },
+  {
+    "ID": 385,
+    "ItemName": "Pine Spikes",
+    "BuyPrice": 50.00,
+    "SellPrice": 4.00
+  },
+  {
+    "ID": 386,
+    "ItemName": "Barbed Wire",
+    "BuyPrice": 100.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 387,
+    "ItemName": "Adrenaline",
+    "BuyPrice": 100.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 388,
+    "ItemName": "Morphine",
+    "BuyPrice": 100.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 389,
+    "ItemName": "Antibiotics",
+    "BuyPrice": 100.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 390,
+    "ItemName": "Painkillers",
+    "BuyPrice": 100.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 391,
+    "ItemName": "Vitamins",
+    "BuyPrice": 100.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 392,
+    "ItemName": "Purification Tablets",
+    "BuyPrice": 100.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 393,
+    "ItemName": "Rag",
+    "BuyPrice": 35.00,
+    "SellPrice": 1.00
+  },
+  {
+    "ID": 394,
+    "ItemName": "Dressing",
+    "BuyPrice": 75.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 395,
+    "ItemName": "Bloodbag",
+    "BuyPrice": 75.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 396,
+    "ItemName": "Refined Mauve Berries",
+    "BuyPrice": 60.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 397,
+    "ItemName": "Refined Amber Berries",
+    "BuyPrice": 60.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 398,
+    "ItemName": "Refined Indigo Berries",
+    "BuyPrice": 60.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 399,
+    "ItemName": "Refined Jade Berries",
+    "BuyPrice": 60.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 400,
+    "ItemName": "Refined Russet Berries",
+    "BuyPrice": 60.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 401,
+    "ItemName": "Refined Teal Berries",
+    "BuyPrice": 60.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 402,
+    "ItemName": "Refined Vermillion Berries",
+    "BuyPrice": 60.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 403,
+    "ItemName": "Suturekit",
+    "BuyPrice": 100.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 404,
+    "ItemName": "Cough Syrup",
+    "BuyPrice": 15.00,
+    "SellPrice": 3.00
+  },
+  {
+    "ID": 405,
+    "ItemName": "Mechanic Top",
+    "BuyPrice": 50.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 406,
+    "ItemName": "Mechanic Bottom",
+    "BuyPrice": 35.00,
+    "SellPrice": 7.00
+  },
+  {
+    "ID": 407,
+    "ItemName": "Engineer Top",
+    "BuyPrice": 45.00,
+    "SellPrice": 9.00
+  },
+  {
+    "ID": 408,
+    "ItemName": "Engineer Bottom",
+    "BuyPrice": 20.00,
+    "SellPrice": 4.00
+  },
+  {
+    "ID": 410,
+    "ItemName": "Black Poncho",
+    "BuyPrice": 75.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 411,
+    "ItemName": "Blue Poncho",
+    "BuyPrice": 75.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 412,
+    "ItemName": "Green Poncho",
+    "BuyPrice": 75.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 413,
+    "ItemName": "Orange Poncho",
+    "BuyPrice": 75.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 414,
+    "ItemName": "Purple Poncho",
+    "BuyPrice": 75.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 415,
+    "ItemName": "Red Poncho",
+    "BuyPrice": 75.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 416,
+    "ItemName": "White Poncho",
+    "BuyPrice": 75.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 417,
+    "ItemName": "Yellow Poncho",
+    "BuyPrice": 75.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 421,
+    "ItemName": "Suit Top",
+    "BuyPrice": 50.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 422,
+    "ItemName": "Suit Bottom",
+    "BuyPrice": 50.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 423,
+    "ItemName": "Engineer Hat",
+    "BuyPrice": 15.00,
+    "SellPrice": 3.00
+  },
+  {
+    "ID": 424,
+    "ItemName": "Fedora",
+    "BuyPrice": 30.00,
+    "SellPrice": 6.00
+  },
+  {
+    "ID": 425,
+    "ItemName": "Black Cap",
+    "BuyPrice": 15.00,
+    "SellPrice": 3.00
+  },
+  {
+    "ID": 426,
+    "ItemName": "Blue Cap",
+    "BuyPrice": 15.00,
+    "SellPrice": 3.00
+  },
+  {
+    "ID": 427,
+    "ItemName": "Green Cap",
+    "BuyPrice": 15.00,
+    "SellPrice": 3.00
+  },
+  {
+    "ID": 428,
+    "ItemName": "Orange Cap",
+    "BuyPrice": 15.00,
+    "SellPrice": 3.00
+  },
+  {
+    "ID": 429,
+    "ItemName": "Purple Cap",
+    "BuyPrice": 15.00,
+    "SellPrice": 3.00
+  },
+  {
+    "ID": 430,
+    "ItemName": "Red Cap",
+    "BuyPrice": 15.00,
+    "SellPrice": 3.00
+  },
+  {
+    "ID": 431,
+    "ItemName": "White Cap",
+    "BuyPrice": 15.00,
+    "SellPrice": 3.00
+  },
+  {
+    "ID": 432,
+    "ItemName": "Yellow Cap",
+    "BuyPrice": 15.00,
+    "SellPrice": 3.00
+  },
+  {
+    "ID": 433,
+    "ItemName": "Forest Beret",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 434,
+    "ItemName": "Black Balaclava",
+    "BuyPrice": 60.00,
+    "SellPrice": 6.00
+  },
+  {
+    "ID": 435,
+    "ItemName": "Blue Balaclava",
+    "BuyPrice": 60.00,
+    "SellPrice": 6.00
+  },
+  {
+    "ID": 436,
+    "ItemName": "Green Balaclava",
+    "BuyPrice": 60.00,
+    "SellPrice": 6.00
+  },
+  {
+    "ID": 437,
+    "ItemName": "Orange Balaclava",
+    "BuyPrice": 60.00,
+    "SellPrice": 6.00
+  },
+  {
+    "ID": 438,
+    "ItemName": "Purple Balaclava",
+    "BuyPrice": 60.00,
+    "SellPrice": 6.00
+  },
+  {
+    "ID": 439,
+    "ItemName": "Red Balaclava",
+    "BuyPrice": 60.00,
+    "SellPrice": 6.00
+  },
+  {
+    "ID": 440,
+    "ItemName": "White Balaclava",
+    "BuyPrice": 60.00,
+    "SellPrice": 6.00
+  },
+  {
+    "ID": 441,
+    "ItemName": "Yellow Balaclava",
+    "BuyPrice": 60.00,
+    "SellPrice": 6.00
+  },
+  {
+    "ID": 442,
+    "ItemName": "Maple Rampart",
+    "BuyPrice": 150.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 443,
+    "ItemName": "Maple Post",
+    "BuyPrice": 125.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 444,
+    "ItemName": "Birch Rampart",
+    "BuyPrice": 150.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 445,
+    "ItemName": "Pine Rampart",
+    "BuyPrice": 150.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 446,
+    "ItemName": "Metal Rampart",
+    "BuyPrice": 200.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 447,
+    "ItemName": "Birch Post",
+    "BuyPrice": 125.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 448,
+    "ItemName": "Pine Post",
+    "BuyPrice": 125.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 449,
+    "ItemName": "Metal Post",
+    "BuyPrice": 180.00,
+    "SellPrice": 45.00
+  },
+  {
+    "ID": 450,
+    "ItemName": "Maple Garage",
+    "BuyPrice": 160.00,
+    "SellPrice": 40.00
+  },
+  {
+    "ID": 451,
+    "ItemName": "Maple Gate",
+    "BuyPrice": 200.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 452,
+    "ItemName": "Birch Garage",
+    "BuyPrice": 160.00,
+    "SellPrice": 40.00
+  },
+  {
+    "ID": 453,
+    "ItemName": "Pine Garage",
+    "BuyPrice": 160.00,
+    "SellPrice": 40.00
+  },
+  {
+    "ID": 454,
+    "ItemName": "Metal Garage",
+    "BuyPrice": 350.00,
+    "SellPrice": 70.00
+  },
+  {
+    "ID": 455,
+    "ItemName": "Birch Gate",
+    "BuyPrice": 200.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 456,
+    "ItemName": "Pine Gate",
+    "BuyPrice": 200.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 457,
+    "ItemName": "Metal Gate",
+    "BuyPrice": 400.00,
+    "SellPrice": 80.00
+  },
+  {
+    "ID": 458,
+    "ItemName": "Portable Generator",
+    "BuyPrice": 1500.00,
+    "SellPrice": 100.00
+  },
+  {
+    "ID": 459,
+    "ItemName": "Spotlight",
+    "BuyPrice": 250.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 460,
+    "ItemName": "Bread",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 461,
+    "ItemName": "Tuna Sandwich",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 462,
+    "ItemName": "Milk Box",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 463,
+    "ItemName": "Orange Juice",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 464,
+    "ItemName": "Cheese",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 465,
+    "ItemName": "Canned Soda",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 466,
+    "ItemName": "Grilled Cheese Sandwich",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 467,
+    "ItemName": "BLT Sandwich",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 468,
+    "ItemName": "Ham Sandwich",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 469,
+    "ItemName": "Canned Ham",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 470,
+    "ItemName": "Eggs",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 471,
+    "ItemName": "Cake",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 472,
+    "ItemName": "Bottled Cola",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 473,
+    "ItemName": "Bottled Soda",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 474,
+    "ItemName": "Maple Rifle",
+    "BuyPrice": 450.00,
+    "SellPrice": 90.00
+  },
+  {
+    "ID": 475,
+    "ItemName": "Rifle Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 476,
+    "ItemName": "Makeshift Scope",
+    "BuyPrice": 30.00,
+    "SellPrice": 6.00
+  },
+  {
+    "ID": 477,
+    "ItemName": "Makeshift Muffler",
+    "BuyPrice": 15.00,
+    "SellPrice": 3.00
+  },
+  {
+    "ID": 478,
+    "ItemName": "Rifle Clip",
+    "BuyPrice": 90.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 479,
+    "ItemName": "Birch Rifle",
+    "BuyPrice": 450.00,
+    "SellPrice": 90.00
+  },
+  {
+    "ID": 480,
+    "ItemName": "Pine Rifle",
+    "BuyPrice": 450.00,
+    "SellPrice": 90.00
+  },
+  {
+    "ID": 481,
+    "ItemName": "Maple Bottle ",
+    "BuyPrice": 15.00,
+    "SellPrice": 3.00
+  },
+  {
+    "ID": 482,
+    "ItemName": "Birch Bottle ",
+    "BuyPrice": 15.00,
+    "SellPrice": 3.00
+  },
+  {
+    "ID": 483,
+    "ItemName": "Pine Bottle ",
+    "BuyPrice": 15.00,
+    "SellPrice": 3.00
+  },
+  {
+    "ID": 484,
+    "ItemName": "Sportshot",
+    "BuyPrice": 300.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 485,
+    "ItemName": "Sportshot Magazine",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 486,
+    "ItemName": "Sportshot Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 487,
+    "ItemName": "Makeshift Bat",
+    "BuyPrice": 80.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 488,
+    "ItemName": "Desert Falcon",
+    "BuyPrice": 750.00,
+    "SellPrice": 125.00
+  },
+  {
+    "ID": 489,
+    "ItemName": "Desert Falcon Magazine",
+    "BuyPrice": 100.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 490,
+    "ItemName": "Chainsaw",
+    "BuyPrice": 250.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 503,
+    "ItemName": "Fishing Rod",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 504,
+    "ItemName": "Raw Trout",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 505,
+    "ItemName": "Raw Salmon",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 506,
+    "ItemName": "Birch Rod",
+    "BuyPrice": 75.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 507,
+    "ItemName": "Maple Rod",
+    "BuyPrice": 75.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 508,
+    "ItemName": "Pine Rod",
+    "BuyPrice": 75.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 509,
+    "ItemName": "Fishing Hat",
+    "BuyPrice": 20.00,
+    "SellPrice": 4.00
+  },
+  {
+    "ID": 510,
+    "ItemName": "Fishing Top",
+    "BuyPrice": 45.00,
+    "SellPrice": 9.00
+  },
+  {
+    "ID": 511,
+    "ItemName": "Fishing Bottom",
+    "BuyPrice": 30.00,
+    "SellPrice": 6.00
+  },
+  {
+    "ID": 512,
+    "ItemName": "Cooked Trout",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 513,
+    "ItemName": "Cooked Salmon",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 514,
+    "ItemName": "Raw Venison",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 515,
+    "ItemName": "Cooked Venison",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 516,
+    "ItemName": "Leather",
+    "BuyPrice": 15.00,
+    "SellPrice": 3.00
+  },
+  {
+    "ID": 517,
+    "ItemName": "Leather Top",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 518,
+    "ItemName": "Leather Bottom",
+    "BuyPrice": 20.00,
+    "SellPrice": 4.00
+  },
+  {
+    "ID": 519,
+    "ItemName": "Rocket Launcher",
+    "BuyPrice": 0.00,
+    "SellPrice": 1500.00
+  },
+  {
+    "ID": 520,
+    "ItemName": "Rocket",
+    "BuyPrice": 0.00,
+    "SellPrice": 500.00
+  },
+  {
+    "ID": 521,
+    "ItemName": "Rocket Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 548,
+    "ItemName": "Designer Jeans",
+    "BuyPrice": 70.00,
+    "SellPrice": 14.00
+  },
+  {
+    "ID": 892,
+    "ItemName": "Small One Way Plate",
+    "BuyPrice": 75.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 893,
+    "ItemName": "Small Bullet Resistant Plate",
+    "BuyPrice": 75.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 894,
+    "ItemName": "Small Weak Plate",
+    "BuyPrice": 75.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 1000,
+    "ItemName": "Matamorez",
+    "BuyPrice": 0.00,
+    "SellPrice": 750.00
+  },
+  {
+    "ID": 1001,
+    "ItemName": "Matamorez Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1003,
+    "ItemName": "Matamorez Magazine",
+    "BuyPrice": 0.00,
+    "SellPrice": 125.00
+  },
+  {
+    "ID": 1004,
+    "ItemName": "Kobra Sight",
+    "BuyPrice": 50.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 1005,
+    "ItemName": "Matamorez Box",
+    "BuyPrice": 0.00,
+    "SellPrice": 175.00
+  },
+  {
+    "ID": 1006,
+    "ItemName": "Cobra Box",
+    "BuyPrice": 160.00,
+    "SellPrice": 40.00
+  },
+  {
+    "ID": 1007,
+    "ItemName": "Adaptive Chambering",
+    "BuyPrice": 250.00,
+    "SellPrice": 40.00
+  },
+  {
+    "ID": 1008,
+    "ItemName": "Rangefinder",
+    "BuyPrice": 1250.00,
+    "SellPrice": 125.00
+  },
+  {
+    "ID": 1009,
+    "ItemName": "Desert Beret",
+    "BuyPrice": 40.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 1010,
+    "ItemName": "Desert Military Helmet",
+    "BuyPrice": 150.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1011,
+    "ItemName": "Desert Military Top",
+    "BuyPrice": 80.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1012,
+    "ItemName": "Desert Military Bottom",
+    "BuyPrice": 55.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 1013,
+    "ItemName": "Desert Military Vest",
+    "BuyPrice": 200.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 1014,
+    "ItemName": "Leather Pack",
+    "BuyPrice": 80.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1015,
+    "ItemName": "Biohazard Top",
+    "BuyPrice": 400.00,
+    "SellPrice": 40.00
+  },
+  {
+    "ID": 1016,
+    "ItemName": "Biohazard Bottom",
+    "BuyPrice": 350.00,
+    "SellPrice": 35.00
+  },
+  {
+    "ID": 1017,
+    "ItemName": "Biohazard Hood",
+    "BuyPrice": 5000.00,
+    "SellPrice": 500.00
+  },
+  {
+    "ID": 1018,
+    "ItemName": "Sabertooth",
+    "BuyPrice": 2500.00,
+    "SellPrice": 300.00
+  },
+  {
+    "ID": 1019,
+    "ItemName": "Sabertooth Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1020,
+    "ItemName": "Sabertooth Magazine",
+    "BuyPrice": 180.00,
+    "SellPrice": 45.00
+  },
+  {
+    "ID": 1021,
+    "ItemName": "Avenger",
+    "BuyPrice": 750.00,
+    "SellPrice": 70.00
+  },
+  {
+    "ID": 1022,
+    "ItemName": "Avenger Magazine",
+    "BuyPrice": 120.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 1023,
+    "ItemName": "Baton",
+    "BuyPrice": 50.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 1024,
+    "ItemName": "Peacemaker",
+    "BuyPrice": 2000.00,
+    "SellPrice": 150.00
+  },
+  {
+    "ID": 1025,
+    "ItemName": "Peacemaker Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1026,
+    "ItemName": "Peacemaker Magazine",
+    "BuyPrice": 140.00,
+    "SellPrice": 35.00
+  },
+  {
+    "ID": 1027,
+    "ItemName": "Viper",
+    "BuyPrice": 800.00,
+    "SellPrice": 100.00
+  },
+  {
+    "ID": 1028,
+    "ItemName": "Viper Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1029,
+    "ItemName": "Viper Magazine",
+    "BuyPrice": 150.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 1030,
+    "ItemName": "Frying Pan",
+    "BuyPrice": 100.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 1031,
+    "ItemName": "Shovel",
+    "BuyPrice": 75.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 1032,
+    "ItemName": "Crowbar",
+    "BuyPrice": 100.00,
+    "SellPrice": 11.00
+  },
+  {
+    "ID": 1033,
+    "ItemName": "Paddle",
+    "BuyPrice": 50.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 1034,
+    "ItemName": "Pitchfork",
+    "BuyPrice": 100.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1035,
+    "ItemName": "Machete",
+    "BuyPrice": 150.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1036,
+    "ItemName": "Katana",
+    "BuyPrice": 150.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1037,
+    "ItemName": "Heartbreaker",
+    "BuyPrice": 2500.00,
+    "SellPrice": 300.00
+  },
+  {
+    "ID": 1038,
+    "ItemName": "Heartbreaker Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1039,
+    "ItemName": "Kryzkarek",
+    "BuyPrice": 600.00,
+    "SellPrice": 75.00
+  },
+  {
+    "ID": 1040,
+    "ItemName": "Kryzkarek Magazine",
+    "BuyPrice": 125.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 1041,
+    "ItemName": "Yuri",
+    "BuyPrice": 1400.00,
+    "SellPrice": 125.00
+  },
+  {
+    "ID": 1042,
+    "ItemName": "Yuri Magazine",
+    "BuyPrice": 160.00,
+    "SellPrice": 35.00
+  },
+  {
+    "ID": 1043,
+    "ItemName": "Yuri Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1044,
+    "ItemName": "Civilian Nightvision",
+    "BuyPrice": 100.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 1045,
+    "ItemName": "Pumpkin Seed",
+    "BuyPrice": 15.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1046,
+    "ItemName": "Pumpkin",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1047,
+    "ItemName": "Pumpkin Pie",
+    "BuyPrice": 20.00,
+    "SellPrice": 4.00
+  },
+  {
+    "ID": 1048,
+    "ItemName": "Hockey Mask",
+    "BuyPrice": 50.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 1049,
+    "ItemName": "Jack-o-Lantern",
+    "BuyPrice": 20.00,
+    "SellPrice": 4.00
+  },
+  {
+    "ID": 1050,
+    "ItemName": "Safezone Radiator",
+    "BuyPrice": 1250.00,
+    "SellPrice": 200.00
+  },
+  {
+    "ID": 1051,
+    "ItemName": "$5 Note",
+    "BuyPrice": 15.00,
+    "SellPrice": 1.00
+  },
+  {
+    "ID": 1052,
+    "ItemName": "$10 Note",
+    "BuyPrice": 15.00,
+    "SellPrice": 1.00
+  },
+  {
+    "ID": 1053,
+    "ItemName": "$20 Note",
+    "BuyPrice": 20.00,
+    "SellPrice": 1.00
+  },
+  {
+    "ID": 1054,
+    "ItemName": "$50 Note",
+    "BuyPrice": 50.00,
+    "SellPrice": 1.00
+  },
+  {
+    "ID": 1055,
+    "ItemName": "$100 Note",
+    "BuyPrice": 100.00,
+    "SellPrice": 1.00
+  },
+  {
+    "ID": 1056,
+    "ItemName": "Loonie",
+    "BuyPrice": 15.00,
+    "SellPrice": 1.00
+  },
+  {
+    "ID": 1057,
+    "ItemName": "Toonie",
+    "BuyPrice": 15.00,
+    "SellPrice": 1.00
+  },
+  {
+    "ID": 1058,
+    "ItemName": "Large Maple Plate",
+    "BuyPrice": 0.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1059,
+    "ItemName": "Small Maple Plate",
+    "BuyPrice": 0.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1060,
+    "ItemName": "Large Maple Frame",
+    "BuyPrice": 0.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 1061,
+    "ItemName": "Small Maple Frame",
+    "BuyPrice": 0.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1062,
+    "ItemName": "Maple Siding",
+    "BuyPrice": 15.00,
+    "SellPrice": 3.00
+  },
+  {
+    "ID": 1063,
+    "ItemName": "Maple Pipe",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1064,
+    "ItemName": "Large Birch Plate",
+    "BuyPrice": 0.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1065,
+    "ItemName": "Small Birch Plate",
+    "BuyPrice": 0.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1066,
+    "ItemName": "Large Birch Frame",
+    "BuyPrice": 0.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 1067,
+    "ItemName": "Small Birch Frame",
+    "BuyPrice": 0.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1068,
+    "ItemName": "Birch Siding",
+    "BuyPrice": 15.00,
+    "SellPrice": 3.00
+  },
+  {
+    "ID": 1069,
+    "ItemName": "Birch Pipe",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1070,
+    "ItemName": "Large Pine Plate",
+    "BuyPrice": 0.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1071,
+    "ItemName": "Small Pine Plate",
+    "BuyPrice": 0.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1072,
+    "ItemName": "Large Pine Frame",
+    "BuyPrice": 0.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 1073,
+    "ItemName": "Small Pine Frame",
+    "BuyPrice": 0.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1074,
+    "ItemName": "Pine Siding",
+    "BuyPrice": 15.00,
+    "SellPrice": 3.00
+  },
+  {
+    "ID": 1075,
+    "ItemName": "Pine Pipe",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1076,
+    "ItemName": "Amber Pie",
+    "BuyPrice": 20.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1077,
+    "ItemName": "Indigo Pie",
+    "BuyPrice": 20.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1078,
+    "ItemName": "Jade Pie",
+    "BuyPrice": 20.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1079,
+    "ItemName": "Mauve Pie",
+    "BuyPrice": 20.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1080,
+    "ItemName": "Russet Pie",
+    "BuyPrice": 20.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1081,
+    "ItemName": "Teal Pie",
+    "BuyPrice": 20.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1082,
+    "ItemName": "Vermillion Pie",
+    "BuyPrice": 20.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1083,
+    "ItemName": "Maple Doorframe",
+    "BuyPrice": 120.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 1084,
+    "ItemName": "Maple Garageframe",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1085,
+    "ItemName": "Birch Doorframe",
+    "BuyPrice": 120.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 1086,
+    "ItemName": "Birch Garageframe",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1087,
+    "ItemName": "Pine Doorframe",
+    "BuyPrice": 120.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 1088,
+    "ItemName": "Pine Garageframe",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1089,
+    "ItemName": "Metal Doorframe",
+    "BuyPrice": 320.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 1090,
+    "ItemName": "Metal Garageframe",
+    "BuyPrice": 280.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 1091,
+    "ItemName": "Large Metal Plate",
+    "BuyPrice": 0.00,
+    "SellPrice": 40.00
+  },
+  {
+    "ID": 1092,
+    "ItemName": "Small Metal Plate",
+    "BuyPrice": 0.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 1093,
+    "ItemName": "Metal Siding",
+    "BuyPrice": 100.00,
+    "SellPrice": 3.00
+  },
+  {
+    "ID": 1094,
+    "ItemName": "Metal Pipe",
+    "BuyPrice": 100.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1095,
+    "ItemName": "Maple Sign",
+    "BuyPrice": 60.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1096,
+    "ItemName": "Birch Sign",
+    "BuyPrice": 60.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1097,
+    "ItemName": "Pine Sign",
+    "BuyPrice": 60.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1098,
+    "ItemName": "Metal Sign",
+    "BuyPrice": 150.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 1099,
+    "ItemName": "4 Seater Makeshift Vehicle",
+    "BuyPrice": 1500.00,
+    "SellPrice": 300.00
+  },
+  {
+    "ID": 1100,
+    "ItemName": "Sticky Grenade",
+    "BuyPrice": 0.00,
+    "SellPrice": 300.00
+  },
+  {
+    "ID": 1101,
+    "ItemName": "Landmine",
+    "BuyPrice": 0.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 1102,
+    "ItemName": "Claymore",
+    "BuyPrice": 200.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1103,
+    "ItemName": "Black Umbrella",
+    "BuyPrice": 150.00,
+    "SellPrice": 18.00
+  },
+  {
+    "ID": 1104,
+    "ItemName": "Amber Berry Seed",
+    "BuyPrice": 15.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1105,
+    "ItemName": "Indigo Berry Seed",
+    "BuyPrice": 15.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1106,
+    "ItemName": "Jade Berry Seed",
+    "BuyPrice": 15.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1107,
+    "ItemName": "Mauve Berry Seed",
+    "BuyPrice": 15.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1108,
+    "ItemName": "Russet Berry Seed",
+    "BuyPrice": 15.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1109,
+    "ItemName": "Teal Berry Seed",
+    "BuyPrice": 15.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1110,
+    "ItemName": "Vermillion Berry Seed",
+    "BuyPrice": 15.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1111,
+    "ItemName": "6 Seater Makeshift Vehicle",
+    "BuyPrice": 2250.00,
+    "SellPrice": 300.00
+  },
+  {
+    "ID": 1112,
+    "ItemName": "1 Seater Makeshift Vehicle",
+    "BuyPrice": 750.00,
+    "SellPrice": 150.00
+  },
+  {
+    "ID": 1113,
+    "ItemName": "Snare",
+    "BuyPrice": 20.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1114,
+    "ItemName": "Maple Jerrycan",
+    "BuyPrice": 500.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 1115,
+    "ItemName": "Birch Jerrycan",
+    "BuyPrice": 500.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 1116,
+    "ItemName": "Pine Jerrycan",
+    "BuyPrice": 500.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 1117,
+    "ItemName": "Pork",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1118,
+    "ItemName": "Bacon",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1119,
+    "ItemName": "Barbed Wire Fence",
+    "BuyPrice": 700.00,
+    "SellPrice": 100.00
+  },
+  {
+    "ID": 1120,
+    "ItemName": "Raw Beef",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1121,
+    "ItemName": "Cooked Beef",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1122,
+    "ItemName": "Blue Umbrella",
+    "BuyPrice": 150.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1123,
+    "ItemName": "Green Umbrella",
+    "BuyPrice": 150.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1124,
+    "ItemName": "Orange Umbrella",
+    "BuyPrice": 150.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1125,
+    "ItemName": "Purple Umbrella",
+    "BuyPrice": 150.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1126,
+    "ItemName": "Red Umbrella",
+    "BuyPrice": 150.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1127,
+    "ItemName": "White Umbrella",
+    "BuyPrice": 150.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1128,
+    "ItemName": "Yellow Umbrella",
+    "BuyPrice": 150.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1129,
+    "ItemName": "Heatstim",
+    "BuyPrice": 30.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1130,
+    "ItemName": "Ornamental Barbed Wire",
+    "BuyPrice": 125.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 1131,
+    "ItemName": "Ornamental Barbed Wire Fence",
+    "BuyPrice": 875.00,
+    "SellPrice": 100.00
+  },
+  {
+    "ID": 1132,
+    "ItemName": "Snowball",
+    "BuyPrice": 0.00,
+    "SellPrice": 4.00
+  },
+  {
+    "ID": 1133,
+    "ItemName": "Black Scarf",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 1134,
+    "ItemName": "Blue Scarf",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 1135,
+    "ItemName": "Green Scarf",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 1136,
+    "ItemName": "Orange Scarf",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 1137,
+    "ItemName": "Purple Scarf",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 1138,
+    "ItemName": "Red Scarf",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 1139,
+    "ItemName": "White Scarf",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 1140,
+    "ItemName": "Yellow Scarf",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 1143,
+    "ItemName": "Sawed-Off",
+    "BuyPrice": 1300.00,
+    "SellPrice": 150.00
+  },
+  {
+    "ID": 1144,
+    "ItemName": "Large Birch Plate",
+    "BuyPrice": 0.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1145,
+    "ItemName": "Large Birch Plate",
+    "BuyPrice": 0.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1146,
+    "ItemName": "Large Maple Plate",
+    "BuyPrice": 0.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1147,
+    "ItemName": "Large Maple Plate",
+    "BuyPrice": 0.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1148,
+    "ItemName": "Large Pine Plate",
+    "BuyPrice": 0.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1149,
+    "ItemName": "Large Pine Plate",
+    "BuyPrice": 0.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1150,
+    "ItemName": "Small Birch Plate",
+    "BuyPrice": 0.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1151,
+    "ItemName": "Small Birch Plate",
+    "BuyPrice": 0.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1152,
+    "ItemName": "Small Maple Plate",
+    "BuyPrice": 0.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1153,
+    "ItemName": "Small Maple Plate",
+    "BuyPrice": 0.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1154,
+    "ItemName": "Small Pine Plate",
+    "BuyPrice": 0.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1155,
+    "ItemName": "Small Pine Plate",
+    "BuyPrice": 0.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1156,
+    "ItemName": "Thief Top",
+    "BuyPrice": 100.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 1157,
+    "ItemName": "Thief Bottom",
+    "BuyPrice": 100.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 1158,
+    "ItemName": "Claim Flag",
+    "BuyPrice": 750.00,
+    "SellPrice": 175.00
+  },
+  {
+    "ID": 1159,
+    "ItemName": "Maple Syrup",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1160,
+    "ItemName": "Pancake",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1161,
+    "ItemName": "Waffle",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1162,
+    "ItemName": "Dough",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1163,
+    "ItemName": "Doughnut",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1164,
+    "ItemName": "Pizza",
+    "BuyPrice": 20.00,
+    "SellPrice": 4.00
+  },
+  {
+    "ID": 1165,
+    "ItemName": "Nailgun",
+    "BuyPrice": 300.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 1166,
+    "ItemName": "Nailgun Magazine",
+    "BuyPrice": 50.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 1168,
+    "ItemName": "Civilian Vest",
+    "BuyPrice": 125.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 1169,
+    "ItemName": "Spec Ops Vest",
+    "BuyPrice": 500.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 1170,
+    "ItemName": "Spec Ops Rucksack",
+    "BuyPrice": 500.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 1171,
+    "ItemName": "Spec Ops Top",
+    "BuyPrice": 500.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 1172,
+    "ItemName": "Spec Ops Bottom",
+    "BuyPrice": 500.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 1173,
+    "ItemName": "Makeshift Armor",
+    "BuyPrice": 100.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 1174,
+    "ItemName": "Scythe",
+    "BuyPrice": 175.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1175,
+    "ItemName": "Chart",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1176,
+    "ItemName": "GPS",
+    "BuyPrice": 60.00,
+    "SellPrice": 3.00
+  },
+  {
+    "ID": 1177,
+    "ItemName": "Military Tracer Magazine",
+    "BuyPrice": 350.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 1178,
+    "ItemName": "Diving Tank",
+    "BuyPrice": 2500.00,
+    "SellPrice": 200.00
+  },
+  {
+    "ID": 1179,
+    "ItemName": "Wetsuit Top",
+    "BuyPrice": 60.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 1180,
+    "ItemName": "Wetsuit Bottom",
+    "BuyPrice": 65.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1181,
+    "ItemName": "Snorkel",
+    "BuyPrice": 200.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 1182,
+    "ItemName": "Black Dufflebag",
+    "BuyPrice": 90.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1183,
+    "ItemName": "Blue Dufflebag",
+    "BuyPrice": 90.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1184,
+    "ItemName": "Green Dufflebag",
+    "BuyPrice": 90.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1185,
+    "ItemName": "Orange Dufflebag",
+    "BuyPrice": 90.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1186,
+    "ItemName": "Purple Dufflebag",
+    "BuyPrice": 90.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1187,
+    "ItemName": "Red Dufflebag",
+    "BuyPrice": 90.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1188,
+    "ItemName": "White Dufflebag",
+    "BuyPrice": 90.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1189,
+    "ItemName": "Yellow Dufflebag",
+    "BuyPrice": 90.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1190,
+    "ItemName": "Ranger Muzzle",
+    "BuyPrice": 150.00,
+    "SellPrice": 6.00
+  },
+  {
+    "ID": 1191,
+    "ItemName": "Ranger Barrel",
+    "BuyPrice": 150.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1192,
+    "ItemName": "High Caliber Military Ammunition Crate",
+    "BuyPrice": 0.00,
+    "SellPrice": 100.00
+  },
+  {
+    "ID": 1193,
+    "ItemName": "High Caliber Ranger Ammunition Box",
+    "BuyPrice": 0.00,
+    "SellPrice": 100.00
+  },
+  {
+    "ID": 1194,
+    "ItemName": "Horde Beacon",
+    "BuyPrice": 15000.00,
+    "SellPrice": 1500.00
+  },
+  {
+    "ID": 1195,
+    "ItemName": "Handcuffs",
+    "BuyPrice": 80.00,
+    "SellPrice": 4.00
+  },
+  {
+    "ID": 1196,
+    "ItemName": "Handcuffs Key",
+    "BuyPrice": 60.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 1197,
+    "ItemName": "Cable Tie",
+    "BuyPrice": 80.00,
+    "SellPrice": 1.00
+  },
+  {
+    "ID": 1198,
+    "ItemName": "Pickaxe",
+    "BuyPrice": 250.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 1199,
+    "ItemName": "Headlamp",
+    "BuyPrice": 100.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1200,
+    "ItemName": "Military Fragmentation Magazine",
+    "BuyPrice": 300.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 1201,
+    "ItemName": "Military Nightvision Scope",
+    "BuyPrice": 250.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1202,
+    "ItemName": "Maple Rifle Rack",
+    "BuyPrice": 80.00,
+    "SellPrice": 18.00
+  },
+  {
+    "ID": 1203,
+    "ItemName": "Birch Rifle Rack",
+    "BuyPrice": 80.00,
+    "SellPrice": 18.00
+  },
+  {
+    "ID": 1204,
+    "ItemName": "Pine Rifle Rack",
+    "BuyPrice": 80.00,
+    "SellPrice": 18.00
+  },
+  {
+    "ID": 1205,
+    "ItemName": "Maple Trophy Case",
+    "BuyPrice": 130.00,
+    "SellPrice": 26.00
+  },
+  {
+    "ID": 1206,
+    "ItemName": "Birch Trophy Case",
+    "BuyPrice": 130.00,
+    "SellPrice": 26.00
+  },
+  {
+    "ID": 1207,
+    "ItemName": "Pine Trophy Case",
+    "BuyPrice": 130.00,
+    "SellPrice": 26.00
+  },
+  {
+    "ID": 1208,
+    "ItemName": "Rain Barrel",
+    "BuyPrice": 200.00,
+    "SellPrice": 40.00
+  },
+  {
+    "ID": 1209,
+    "ItemName": "Explosive Arrow",
+    "BuyPrice": 0.00,
+    "SellPrice": 100.00
+  },
+  {
+    "ID": 1210,
+    "ItemName": "Brick Doorway",
+    "BuyPrice": 650.00,
+    "SellPrice": 100.00
+  },
+  {
+    "ID": 1211,
+    "ItemName": "Brick Garage",
+    "BuyPrice": 650.00,
+    "SellPrice": 100.00
+  },
+  {
+    "ID": 1212,
+    "ItemName": "Brick Pillar",
+    "BuyPrice": 500.00,
+    "SellPrice": 80.00
+  },
+  {
+    "ID": 1213,
+    "ItemName": "Brick Post",
+    "BuyPrice": 300.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 1214,
+    "ItemName": "Brick Rampart",
+    "BuyPrice": 400.00,
+    "SellPrice": 70.00
+  },
+  {
+    "ID": 1215,
+    "ItemName": "Brick Wall",
+    "BuyPrice": 650.00,
+    "SellPrice": 105.00
+  },
+  {
+    "ID": 1216,
+    "ItemName": "Brick Window",
+    "BuyPrice": 650.00,
+    "SellPrice": 100.00
+  },
+  {
+    "ID": 1217,
+    "ItemName": "Brick Doorframe",
+    "BuyPrice": 450.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 1218,
+    "ItemName": "Brick Garageframe",
+    "BuyPrice": 450.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 1219,
+    "ItemName": "Pump Jack",
+    "BuyPrice": 1000.00,
+    "SellPrice": 100.00
+  },
+  {
+    "ID": 1220,
+    "ItemName": "Metal Rifle Rack",
+    "BuyPrice": 300.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 1221,
+    "ItemName": "Metal Trophy Case",
+    "BuyPrice": 400.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 1222,
+    "ItemName": "Cagelight",
+    "BuyPrice": 250.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 1223,
+    "ItemName": "Maple Shutter",
+    "BuyPrice": 120.00,
+    "SellPrice": 24.00
+  },
+  {
+    "ID": 1224,
+    "ItemName": "Birch Shutter",
+    "BuyPrice": 120.00,
+    "SellPrice": 24.00
+  },
+  {
+    "ID": 1225,
+    "ItemName": "Pine Shutter",
+    "BuyPrice": 120.00,
+    "SellPrice": 24.00
+  },
+  {
+    "ID": 1226,
+    "ItemName": "Metal Shutter",
+    "BuyPrice": 300.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 1227,
+    "ItemName": "Tanktrap",
+    "BuyPrice": 200.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 1228,
+    "ItemName": "Water Tank",
+    "BuyPrice": 350.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 1229,
+    "ItemName": "Fuel Tank",
+    "BuyPrice": 1000.00,
+    "SellPrice": 40.00
+  },
+  {
+    "ID": 1230,
+    "ItemName": "Industrial Generator",
+    "BuyPrice": 5000.00,
+    "SellPrice": 2000.00
+  },
+  {
+    "ID": 1231,
+    "ItemName": "Maple Flag",
+    "BuyPrice": 150.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 1232,
+    "ItemName": "Birch Flag",
+    "BuyPrice": 150.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 1233,
+    "ItemName": "Pine Flag",
+    "BuyPrice": 150.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 1234,
+    "ItemName": "Metal Flag",
+    "BuyPrice": 450.00,
+    "SellPrice": 90.00
+  },
+  {
+    "ID": 1235,
+    "ItemName": "Maple Doubledoor",
+    "BuyPrice": 240.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 1236,
+    "ItemName": "Birch Doubledoor",
+    "BuyPrice": 240.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 1237,
+    "ItemName": "Pine Doubledoor",
+    "BuyPrice": 240.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 1238,
+    "ItemName": "Metal Doubledoor",
+    "BuyPrice": 600.00,
+    "SellPrice": 120.00
+  },
+  {
+    "ID": 1239,
+    "ItemName": "Large Slippery Plate",
+    "BuyPrice": 0.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 1240,
+    "ItemName": "Detonator",
+    "BuyPrice": 2500.00,
+    "SellPrice": 500.00
+  },
+  {
+    "ID": 1241,
+    "ItemName": "Demolition Charge",
+    "BuyPrice": 0.00,
+    "SellPrice": 500.00
+  },
+  {
+    "ID": 1242,
+    "ItemName": "Makeshift Grenade",
+    "BuyPrice": 0.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 1243,
+    "ItemName": "Cot",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1244,
+    "ItemName": "Neutral Sentry",
+    "BuyPrice": 1250.00,
+    "SellPrice": 250.00
+  },
+  {
+    "ID": 1245,
+    "ItemName": "Maple Counter",
+    "BuyPrice": 250.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 1246,
+    "ItemName": "Birch Counter",
+    "BuyPrice": 250.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 1247,
+    "ItemName": "Pine Counter",
+    "BuyPrice": 250.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 1248,
+    "ItemName": "Metal Counter",
+    "BuyPrice": 350.00,
+    "SellPrice": 70.00
+  },
+  {
+    "ID": 1249,
+    "ItemName": "Fridge",
+    "BuyPrice": 200.00,
+    "SellPrice": 40.00
+  },
+  {
+    "ID": 1250,
+    "ItemName": "Oven",
+    "BuyPrice": 160.00,
+    "SellPrice": 40.00
+  },
+  {
+    "ID": 1251,
+    "ItemName": "Maple Counter Sink",
+    "BuyPrice": 175.00,
+    "SellPrice": 35.00
+  },
+  {
+    "ID": 1252,
+    "ItemName": "Birch Counter Sink",
+    "BuyPrice": 175.00,
+    "SellPrice": 35.00
+  },
+  {
+    "ID": 1253,
+    "ItemName": "Pine Counter Sink",
+    "BuyPrice": 175.00,
+    "SellPrice": 35.00
+  },
+  {
+    "ID": 1254,
+    "ItemName": "Metal Counter Sink",
+    "BuyPrice": 280.00,
+    "SellPrice": 55.00
+  },
+  {
+    "ID": 1255,
+    "ItemName": "Lamp",
+    "BuyPrice": 250.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 1256,
+    "ItemName": "Couch",
+    "BuyPrice": 90.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1257,
+    "ItemName": "Maple Library",
+    "BuyPrice": 120.00,
+    "SellPrice": 22.00
+  },
+  {
+    "ID": 1258,
+    "ItemName": "Birch Library",
+    "BuyPrice": 120.00,
+    "SellPrice": 22.00
+  },
+  {
+    "ID": 1259,
+    "ItemName": "Pine Library",
+    "BuyPrice": 120.00,
+    "SellPrice": 22.00
+  },
+  {
+    "ID": 1260,
+    "ItemName": "Metal Library",
+    "BuyPrice": 250.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 1261,
+    "ItemName": "Oxygenator",
+    "BuyPrice": 5000.00,
+    "SellPrice": 1500.00
+  },
+  {
+    "ID": 1262,
+    "ItemName": "Triangular Maple Floor",
+    "BuyPrice": 200.00,
+    "SellPrice": 40.00
+  },
+  {
+    "ID": 1263,
+    "ItemName": "Triangular Birch Floor",
+    "BuyPrice": 200.00,
+    "SellPrice": 40.00
+  },
+  {
+    "ID": 1264,
+    "ItemName": "Triangular Pine Floor",
+    "BuyPrice": 200.00,
+    "SellPrice": 40.00
+  },
+  {
+    "ID": 1265,
+    "ItemName": "Triangular Metal Floor",
+    "BuyPrice": 400.00,
+    "SellPrice": 80.00
+  },
+  {
+    "ID": 1266,
+    "ItemName": "Triangular Maple Roof",
+    "BuyPrice": 200.00,
+    "SellPrice": 40.00
+  },
+  {
+    "ID": 1267,
+    "ItemName": "Triangular Birch Roof",
+    "BuyPrice": 200.00,
+    "SellPrice": 40.00
+  },
+  {
+    "ID": 1268,
+    "ItemName": "Triangular Pine Roof",
+    "BuyPrice": 200.00,
+    "SellPrice": 40.00
+  },
+  {
+    "ID": 1269,
+    "ItemName": "Triangular Metal Roof",
+    "BuyPrice": 400.00,
+    "SellPrice": 80.00
+  },
+  {
+    "ID": 1270,
+    "ItemName": "Gasmask",
+    "BuyPrice": 7500.00,
+    "SellPrice": 1250.00
+  },
+  {
+    "ID": 1271,
+    "ItemName": "Filter",
+    "BuyPrice": 2500.00,
+    "SellPrice": 250.00
+  },
+  {
+    "ID": 1272,
+    "ItemName": "Blue Flare Sconce",
+    "BuyPrice": 60.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 1273,
+    "ItemName": "Green Flare Sconce",
+    "BuyPrice": 60.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 1274,
+    "ItemName": "Orange Flare Sconce",
+    "BuyPrice": 60.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 1275,
+    "ItemName": "Purple Flare Sconce",
+    "BuyPrice": 60.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 1276,
+    "ItemName": "Red Flare Sconce",
+    "BuyPrice": 60.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 1277,
+    "ItemName": "Yellow Flare Sconce",
+    "BuyPrice": 60.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 1278,
+    "ItemName": "Maple Wardrobe",
+    "BuyPrice": 400.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 1279,
+    "ItemName": "Birch Wardrobe",
+    "BuyPrice": 400.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 1280,
+    "ItemName": "Pine Wardrobe",
+    "BuyPrice": 400.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 1281,
+    "ItemName": "Metal Wardrobe",
+    "BuyPrice": 600.00,
+    "SellPrice": 100.00
+  },
+  {
+    "ID": 1282,
+    "ItemName": "Patio Umbrella",
+    "BuyPrice": 200.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1283,
+    "ItemName": "Cooler",
+    "BuyPrice": 200.00,
+    "SellPrice": 40.00
+  },
+  {
+    "ID": 1284,
+    "ItemName": "Maple Rectangular Table",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1285,
+    "ItemName": "Birch Rectangular Table",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1286,
+    "ItemName": "Pine Rectangular Table",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1287,
+    "ItemName": "Metal Rectangular Table",
+    "BuyPrice": 150.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1288,
+    "ItemName": "Maple Circular Table",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1289,
+    "ItemName": "Birch Circular Table",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1290,
+    "ItemName": "Pine Circular Table",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1291,
+    "ItemName": "Metal Circular Table",
+    "BuyPrice": 150.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1292,
+    "ItemName": "Maple Square Table",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1293,
+    "ItemName": "Birch Square Table",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1294,
+    "ItemName": "Pine Square Table",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1295,
+    "ItemName": "Metal Square Table",
+    "BuyPrice": 150.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1296,
+    "ItemName": "Beach Chair",
+    "BuyPrice": 80.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1297,
+    "ItemName": "Weak Glass",
+    "BuyPrice": 250.00,
+    "SellPrice": 40.00
+  },
+  {
+    "ID": 1298,
+    "ItemName": "Bulletproof Glass",
+    "BuyPrice": 300.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 1299,
+    "ItemName": "One Way Glass",
+    "BuyPrice": 400.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 1300,
+    "ItemName": "Tank Cannon",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1302,
+    "ItemName": "Missile",
+    "BuyPrice": 0.00,
+    "SellPrice": 750.00
+  },
+  {
+    "ID": 1303,
+    "ItemName": "Blue Couch",
+    "BuyPrice": 75.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1304,
+    "ItemName": "Green Couch",
+    "BuyPrice": 75.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1305,
+    "ItemName": "Orange Couch",
+    "BuyPrice": 75.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1306,
+    "ItemName": "Purple Couch",
+    "BuyPrice": 75.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1307,
+    "ItemName": "Red Couch",
+    "BuyPrice": 75.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1308,
+    "ItemName": "Yellow Couch",
+    "BuyPrice": 75.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1309,
+    "ItemName": "Blue Cot",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1310,
+    "ItemName": "Green Cot",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1311,
+    "ItemName": "Orange Cot",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1312,
+    "ItemName": "Purple Cot",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1313,
+    "ItemName": "Red Cot",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1314,
+    "ItemName": "Yellow Cot",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1315,
+    "ItemName": "Blue Beach Chair",
+    "BuyPrice": 80.00,
+    "SellPrice": 16.00
+  },
+  {
+    "ID": 1316,
+    "ItemName": "Green Beach Chair",
+    "BuyPrice": 80.00,
+    "SellPrice": 16.00
+  },
+  {
+    "ID": 1317,
+    "ItemName": "Orange Beach Chair",
+    "BuyPrice": 80.00,
+    "SellPrice": 16.00
+  },
+  {
+    "ID": 1318,
+    "ItemName": "Purple Beach Chair",
+    "BuyPrice": 80.00,
+    "SellPrice": 16.00
+  },
+  {
+    "ID": 1319,
+    "ItemName": "Red Beach Chair",
+    "BuyPrice": 80.00,
+    "SellPrice": 16.00
+  },
+  {
+    "ID": 1320,
+    "ItemName": "Yellow Beach Chair",
+    "BuyPrice": 80.00,
+    "SellPrice": 16.00
+  },
+  {
+    "ID": 1321,
+    "ItemName": "Blue Patio Umbrella",
+    "BuyPrice": 80.00,
+    "SellPrice": 16.00
+  },
+  {
+    "ID": 1322,
+    "ItemName": "Green Patio Umbrella",
+    "BuyPrice": 80.00,
+    "SellPrice": 16.00
+  },
+  {
+    "ID": 1323,
+    "ItemName": "Orange Patio Umbrella",
+    "BuyPrice": 80.00,
+    "SellPrice": 16.00
+  },
+  {
+    "ID": 1324,
+    "ItemName": "Purple Patio Umbrella",
+    "BuyPrice": 80.00,
+    "SellPrice": 16.00
+  },
+  {
+    "ID": 1325,
+    "ItemName": "Red Patio Umbrella",
+    "BuyPrice": 80.00,
+    "SellPrice": 16.00
+  },
+  {
+    "ID": 1326,
+    "ItemName": "Yellow Patio Umbrella",
+    "BuyPrice": 80.00,
+    "SellPrice": 16.00
+  },
+  {
+    "ID": 1327,
+    "ItemName": "Book",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 1328,
+    "ItemName": "Note",
+    "BuyPrice": 30.00,
+    "SellPrice": 6.00
+  },
+  {
+    "ID": 1329,
+    "ItemName": "Maple Hatch",
+    "BuyPrice": 140.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 1330,
+    "ItemName": "Birch Hatch",
+    "BuyPrice": 140.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 1331,
+    "ItemName": "Pine Hatch",
+    "BuyPrice": 140.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 1332,
+    "ItemName": "Metal Hatch",
+    "BuyPrice": 300.00,
+    "SellPrice": 55.00
+  },
+  {
+    "ID": 1333,
+    "ItemName": "Military Top",
+    "BuyPrice": 80.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1334,
+    "ItemName": "Military Bottom",
+    "BuyPrice": 55.00,
+    "SellPrice": 11.00
+  },
+  {
+    "ID": 1335,
+    "ItemName": "Military Helmet",
+    "BuyPrice": 150.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1336,
+    "ItemName": "Military Vest",
+    "BuyPrice": 200.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 1337,
+    "ItemName": "Paintball Gun",
+    "BuyPrice": 300.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 1339,
+    "ItemName": "Blue Paintball Hopper",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1340,
+    "ItemName": "Green Paintball Hopper",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1341,
+    "ItemName": "Orange Paintball Hopper",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1342,
+    "ItemName": "Purple Paintball Hopper",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1343,
+    "ItemName": "Red Paintball Hopper",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1344,
+    "ItemName": "Yellow Paintball Hopper",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1345,
+    "ItemName": "Plot",
+    "BuyPrice": 80.00,
+    "SellPrice": 16.00
+  },
+  {
+    "ID": 1346,
+    "ItemName": "Flashbang",
+    "BuyPrice": 150.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 1347,
+    "ItemName": "Raw Minnow",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1348,
+    "ItemName": "Cooked Minnow",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1349,
+    "ItemName": "Raw Goldfish",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1350,
+    "ItemName": "Cooked Goldfish",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1351,
+    "ItemName": "Raw Bass",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1352,
+    "ItemName": "Cooked Bass",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1353,
+    "ItemName": "Stealy Wheely Automobiley",
+    "BuyPrice": 0.00,
+    "SellPrice": 500.00
+  },
+  {
+    "ID": 1354,
+    "ItemName": "Ghillie Top",
+    "BuyPrice": 150.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 1355,
+    "ItemName": "Ghillie Bottom",
+    "BuyPrice": 150.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 1356,
+    "ItemName": "Ghillie Hood",
+    "BuyPrice": 150.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 1357,
+    "ItemName": "Ghillie Vest",
+    "BuyPrice": 180.00,
+    "SellPrice": 40.00
+  },
+  {
+    "ID": 1358,
+    "ItemName": "Pilot Top",
+    "BuyPrice": 50.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 1359,
+    "ItemName": "Pilot Cap",
+    "BuyPrice": 30.00,
+    "SellPrice": 6.00
+  },
+  {
+    "ID": 1360,
+    "ItemName": "Teklowvka",
+    "BuyPrice": 600.00,
+    "SellPrice": 120.00
+  },
+  {
+    "ID": 1361,
+    "ItemName": "Teklowvka Magazine",
+    "BuyPrice": 90.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1362,
+    "ItemName": "Augewehr",
+    "BuyPrice": 3000.00,
+    "SellPrice": 250.00
+  },
+  {
+    "ID": 1363,
+    "ItemName": "Augewehr Scope",
+    "BuyPrice": 50.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 1364,
+    "ItemName": "Hell's Fury",
+    "BuyPrice": 0.00,
+    "SellPrice": 1000.00
+  },
+  {
+    "ID": 1365,
+    "ItemName": "Hell's Fury Drum",
+    "BuyPrice": 0.00,
+    "SellPrice": 250.00
+  },
+  {
+    "ID": 1366,
+    "ItemName": "Vonya",
+    "BuyPrice": 1400.00,
+    "SellPrice": 150.00
+  },
+  {
+    "ID": 1367,
+    "ItemName": "Vonya Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1368,
+    "ItemName": "Vonya Magazine",
+    "BuyPrice": 130.00,
+    "SellPrice": 26.00
+  },
+  {
+    "ID": 1369,
+    "ItemName": "Bulldog",
+    "BuyPrice": 1250.00,
+    "SellPrice": 250.00
+  },
+  {
+    "ID": 1370,
+    "ItemName": "Bulldog Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1371,
+    "ItemName": "Bulldog Magazine",
+    "BuyPrice": 80.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1372,
+    "ItemName": "Friendly Sentry",
+    "BuyPrice": 1250.00,
+    "SellPrice": 250.00
+  },
+  {
+    "ID": 1373,
+    "ItemName": "Hostile Sentry",
+    "BuyPrice": 2000.00,
+    "SellPrice": 250.00
+  },
+  {
+    "ID": 1375,
+    "ItemName": "Fusilaut",
+    "BuyPrice": 2500.00,
+    "SellPrice": 200.00
+  },
+  {
+    "ID": 1376,
+    "ItemName": "Fusilaut Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1377,
+    "ItemName": "Nightraider",
+    "BuyPrice": 3000.00,
+    "SellPrice": 250.00
+  },
+  {
+    "ID": 1378,
+    "ItemName": "Nightraider Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1379,
+    "ItemName": "Calling Card",
+    "BuyPrice": 2500.00,
+    "SellPrice": 150.00
+  },
+  {
+    "ID": 1380,
+    "ItemName": "Calling Card Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1381,
+    "ItemName": "Calling Card Magazine",
+    "BuyPrice": 140.00,
+    "SellPrice": 35.00
+  },
+  {
+    "ID": 1382,
+    "ItemName": "Ekho",
+    "BuyPrice": 0.00,
+    "SellPrice": 1000.00
+  },
+  {
+    "ID": 1383,
+    "ItemName": "Ekho Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1384,
+    "ItemName": "Ekho Magazine",
+    "BuyPrice": 0.00,
+    "SellPrice": 100.00
+  },
+  {
+    "ID": 1385,
+    "ItemName": "Mafia Fedora",
+    "BuyPrice": 35.00,
+    "SellPrice": 7.00
+  },
+  {
+    "ID": 1386,
+    "ItemName": "Mafia Tuxedo Top",
+    "BuyPrice": 75.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1387,
+    "ItemName": "Mafia Tuxedo Bottom",
+    "BuyPrice": 50.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 1388,
+    "ItemName": "Beret",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 1389,
+    "ItemName": "Spec Ops Beret",
+    "BuyPrice": 500.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 1390,
+    "ItemName": "Pool Cue",
+    "BuyPrice": 60.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 1391,
+    "ItemName": "Tracksuit Top",
+    "BuyPrice": 50.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 1392,
+    "ItemName": "Tracksuit Bottom",
+    "BuyPrice": 45.00,
+    "SellPrice": 9.00
+  },
+  {
+    "ID": 1393,
+    "ItemName": "Precision Charge",
+    "BuyPrice": 0.00,
+    "SellPrice": 500.00
+  },
+  {
+    "ID": 1394,
+    "ItemName": "HMG",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1395,
+    "ItemName": "HMG Box",
+    "BuyPrice": 0.00,
+    "SellPrice": 250.00
+  },
+  {
+    "ID": 1396,
+    "ItemName": "Ghillie Netting",
+    "BuyPrice": 0.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1397,
+    "ItemName": "Ghillie Netting",
+    "BuyPrice": 0.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1398,
+    "ItemName": "Trout Sandwich",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1399,
+    "ItemName": "Salmon Sandwich",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1400,
+    "ItemName": "Minnow Sandwich",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1401,
+    "ItemName": "Goldfish Sandwich",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1402,
+    "ItemName": "Venison Sandwich",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1403,
+    "ItemName": "Bass Sandwich",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1404,
+    "ItemName": "Beef Sandwich",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1405,
+    "ItemName": "Cheese Steak Sandwich",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1406,
+    "ItemName": "BLT Sandwich",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1407,
+    "ItemName": "Beef Sandwich",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1408,
+    "ItemName": "Cloth Mannequin",
+    "BuyPrice": 120.00,
+    "SellPrice": 24.00
+  },
+  {
+    "ID": 1409,
+    "ItemName": "Metal Mannequin",
+    "BuyPrice": 300.00,
+    "SellPrice": 60.00
+  },
+  {
+    "ID": 1410,
+    "ItemName": "Maple Plaque",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1411,
+    "ItemName": "Birch Plaque",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1412,
+    "ItemName": "Pine Plaque",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1413,
+    "ItemName": "Metal Plaque",
+    "BuyPrice": 250.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 1414,
+    "ItemName": "Maple Ramp Wall",
+    "BuyPrice": 140.00,
+    "SellPrice": 35.00
+  },
+  {
+    "ID": 1415,
+    "ItemName": "Birch Ramp Wall",
+    "BuyPrice": 140.00,
+    "SellPrice": 35.00
+  },
+  {
+    "ID": 1416,
+    "ItemName": "Pine Ramp Wall",
+    "BuyPrice": 140.00,
+    "SellPrice": 35.00
+  },
+  {
+    "ID": 1417,
+    "ItemName": "Metal Ramp Wall",
+    "BuyPrice": 500.00,
+    "SellPrice": 65.00
+  },
+  {
+    "ID": 1418,
+    "ItemName": "Brick Ramp Wall",
+    "BuyPrice": 600.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 1419,
+    "ItemName": "Coalition Bottom",
+    "BuyPrice": 50.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 1420,
+    "ItemName": "Ensign Coalition Top",
+    "BuyPrice": 80.00,
+    "SellPrice": 16.00
+  },
+  {
+    "ID": 1421,
+    "ItemName": "Lieutenant Coalition Top",
+    "BuyPrice": 85.00,
+    "SellPrice": 17.00
+  },
+  {
+    "ID": 1422,
+    "ItemName": "Major Coalition Top",
+    "BuyPrice": 90.00,
+    "SellPrice": 18.00
+  },
+  {
+    "ID": 1423,
+    "ItemName": "Commander Coalition Top",
+    "BuyPrice": 95.00,
+    "SellPrice": 19.00
+  },
+  {
+    "ID": 1424,
+    "ItemName": "Captain Coalition Top",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1425,
+    "ItemName": "Coalition Vest",
+    "BuyPrice": 130.00,
+    "SellPrice": 26.00
+  },
+  {
+    "ID": 1426,
+    "ItemName": "Coalition Cap",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 1427,
+    "ItemName": "Coalition Helmet",
+    "BuyPrice": 150.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1428,
+    "ItemName": "Coalition Beret",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 1429,
+    "ItemName": "Coalition Captain Hat",
+    "BuyPrice": 45.00,
+    "SellPrice": 9.00
+  },
+  {
+    "ID": 1430,
+    "ItemName": "Upgraded Cake Blueprint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1431,
+    "ItemName": "Upgraded Cake",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1432,
+    "ItemName": "Upgraded Fishing Rod",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1433,
+    "ItemName": "Upgraded Fishing Rod Blueprint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1434,
+    "ItemName": "Raw Squid",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1435,
+    "ItemName": "Cooked Squid",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1436,
+    "ItemName": "Quadbarrel",
+    "BuyPrice": 1400.00,
+    "SellPrice": 150.00
+  },
+  {
+    "ID": 1437,
+    "ItemName": "Quadbarrel Blueprint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1438,
+    "ItemName": "Bayonet",
+    "BuyPrice": 150.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 1439,
+    "ItemName": "Bayonet Blueprint",
+    "BuyPrice": 150.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 1440,
+    "ItemName": "Industrial Gas Can",
+    "BuyPrice": 750.00,
+    "SellPrice": 80.00
+  },
+  {
+    "ID": 1441,
+    "ItemName": "Shadowstalker Mk. II",
+    "BuyPrice": 0.00,
+    "SellPrice": 4000.00
+  },
+  {
+    "ID": 1442,
+    "ItemName": "Shadowstalker Mk. II Scope",
+    "BuyPrice": 1000.00,
+    "SellPrice": 200.00
+  },
+  {
+    "ID": 1443,
+    "ItemName": "Shadowstalker Mk. II Drum",
+    "BuyPrice": 0.00,
+    "SellPrice": 1000.00
+  },
+  {
+    "ID": 1445,
+    "ItemName": "Walkie Talkie ",
+    "BuyPrice": 100.00,
+    "SellPrice": 16.00
+  },
+  {
+    "ID": 1446,
+    "ItemName": "Earpiece",
+    "BuyPrice": 85.00,
+    "SellPrice": 17.00
+  },
+  {
+    "ID": 1447,
+    "ItemName": "Scalar",
+    "BuyPrice": 1500.00,
+    "SellPrice": 150.00
+  },
+  {
+    "ID": 1448,
+    "ItemName": "Scalar Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1449,
+    "ItemName": "Scalar Magazine",
+    "BuyPrice": 120.00,
+    "SellPrice": 24.00
+  },
+  {
+    "ID": 1450,
+    "ItemName": "Vehicle Battery ",
+    "BuyPrice": 250.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 1451,
+    "ItemName": "Tire ",
+    "BuyPrice": 250.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 1452,
+    "ItemName": "Whole Coconut",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1453,
+    "ItemName": "Split Coconut",
+    "BuyPrice": 15.00,
+    "SellPrice": 2.00
+  },
+  {
+    "ID": 1454,
+    "ItemName": "Black Trunks",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 1455,
+    "ItemName": "Blue Trunks",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 1456,
+    "ItemName": "Green Trunks",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 1457,
+    "ItemName": "Orange Trunks",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 1458,
+    "ItemName": "Purple Trunks",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 1459,
+    "ItemName": "Red Trunks",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 1460,
+    "ItemName": "White Trunks",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 1461,
+    "ItemName": "Yellow Trunks",
+    "BuyPrice": 40.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 1462,
+    "ItemName": "Coastguard Top",
+    "BuyPrice": 55.00,
+    "SellPrice": 11.00
+  },
+  {
+    "ID": 1463,
+    "ItemName": "Coastguard Bottom",
+    "BuyPrice": 35.00,
+    "SellPrice": 7.00
+  },
+  {
+    "ID": 1464,
+    "ItemName": "Blindfold",
+    "BuyPrice": 30.00,
+    "SellPrice": 6.00
+  },
+  {
+    "ID": 1466,
+    "ItemName": "Boombox",
+    "BuyPrice": 140.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 1467,
+    "ItemName": "Maple Placard",
+    "BuyPrice": 60.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 1468,
+    "ItemName": "Birch Placard",
+    "BuyPrice": 60.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 1469,
+    "ItemName": "Pine Placard",
+    "BuyPrice": 60.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 1470,
+    "ItemName": "Metal Placard",
+    "BuyPrice": 180.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 1471,
+    "ItemName": "HMG",
+    "BuyPrice": 0.00,
+    "SellPrice": 500.00
+  },
+  {
+    "ID": 1472,
+    "ItemName": "Fighter Pilot Helmet",
+    "BuyPrice": 120.00,
+    "SellPrice": 13.00
+  },
+  {
+    "ID": 1473,
+    "ItemName": "Fighter Pilot Top",
+    "BuyPrice": 80.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1474,
+    "ItemName": "Fighter Pilot Bottom",
+    "BuyPrice": 60.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 1475,
+    "ItemName": "Jackhammer",
+    "BuyPrice": 500.00,
+    "SellPrice": 36.00
+  },
+  {
+    "ID": 1476,
+    "ItemName": "Luger",
+    "BuyPrice": 800.00,
+    "SellPrice": 100.00
+  },
+  {
+    "ID": 1477,
+    "ItemName": "Maschinengewehr",
+    "BuyPrice": 1500.00,
+    "SellPrice": 150.00
+  },
+  {
+    "ID": 1478,
+    "ItemName": "Maschinengewehr Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1479,
+    "ItemName": "Maschinengewehr Magazine",
+    "BuyPrice": 100.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1480,
+    "ItemName": "Determinator",
+    "BuyPrice": 1400.00,
+    "SellPrice": 100.00
+  },
+  {
+    "ID": 1481,
+    "ItemName": "Empire",
+    "BuyPrice": 2000.00,
+    "SellPrice": 150.00
+  },
+  {
+    "ID": 1482,
+    "ItemName": "Empire Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1483,
+    "ItemName": "Empire Magazine",
+    "BuyPrice": 150.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 1484,
+    "ItemName": "Devil's Bane",
+    "BuyPrice": 2750.00,
+    "SellPrice": 250.00
+  },
+  {
+    "ID": 1485,
+    "ItemName": "Devil's Bane Magazine",
+    "BuyPrice": 150.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 1486,
+    "ItemName": "Devil's Bane Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1487,
+    "ItemName": "Luger Magazine",
+    "BuyPrice": 80.00,
+    "SellPrice": 18.00
+  },
+  {
+    "ID": 1488,
+    "ItemName": "Swissgewehr",
+    "BuyPrice": 2750.00,
+    "SellPrice": 250.00
+  },
+  {
+    "ID": 1489,
+    "ItemName": "Swissgewehr Iron Sights",
+    "BuyPrice": 25.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1490,
+    "ItemName": "Swissgewehr Magazine",
+    "BuyPrice": 150.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 1491,
+    "ItemName": "Military Top",
+    "BuyPrice": 80.00,
+    "SellPrice": 16.00
+  },
+  {
+    "ID": 1492,
+    "ItemName": "Ghillie Top",
+    "BuyPrice": 150.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 1493,
+    "ItemName": "Ghillie Bottom",
+    "BuyPrice": 150.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 1494,
+    "ItemName": "Ghillie Hood",
+    "BuyPrice": 150.00,
+    "SellPrice": 30.00
+  },
+  {
+    "ID": 1495,
+    "ItemName": "Ghillie Vest",
+    "BuyPrice": 180.00,
+    "SellPrice": 40.00
+  },
+  {
+    "ID": 1498,
+    "ItemName": "Lederhosen Top",
+    "BuyPrice": 60.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 1499,
+    "ItemName": "Lederhosen Bottom",
+    "BuyPrice": 50.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 1500,
+    "ItemName": "Ghillie Netting",
+    "BuyPrice": 0.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1503,
+    "ItemName": "Zweihander",
+    "BuyPrice": 0.00,
+    "SellPrice": 1000.00
+  },
+  {
+    "ID": 1504,
+    "ItemName": "Pickelhaube",
+    "BuyPrice": 200.00,
+    "SellPrice": 8.00
+  },
+  {
+    "ID": 1505,
+    "ItemName": "Kaiser Top",
+    "BuyPrice": 55.00,
+    "SellPrice": 11.00
+  },
+  {
+    "ID": 1506,
+    "ItemName": "Kaiser Bottom",
+    "BuyPrice": 45.00,
+    "SellPrice": 9.00
+  },
+  {
+    "ID": 1507,
+    "ItemName": "Socketwrench ",
+    "BuyPrice": 75.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1508,
+    "ItemName": "Compass",
+    "BuyPrice": 100.00,
+    "SellPrice": 5.00
+  },
+  {
+    "ID": 1509,
+    "ItemName": "Clock",
+    "BuyPrice": 70.00,
+    "SellPrice": 14.00
+  },
+  {
+    "ID": 1510,
+    "ItemName": "Chewing Gum",
+    "BuyPrice": 0.00,
+    "SellPrice": 100.00
+  },
+  {
+    "ID": 1511,
+    "ItemName": "Arctic Alicepack",
+    "BuyPrice": 800.00,
+    "SellPrice": 120.00
+  },
+  {
+    "ID": 1512,
+    "ItemName": "Arctic Ghillie Top",
+    "BuyPrice": 80.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1513,
+    "ItemName": "Arctic Ghillie Bottom",
+    "BuyPrice": 65.00,
+    "SellPrice": 15.00
+  },
+  {
+    "ID": 1514,
+    "ItemName": "Arctic Ghillie Vest",
+    "BuyPrice": 70.00,
+    "SellPrice": 12.00
+  },
+  {
+    "ID": 1515,
+    "ItemName": "Arctic Ghillie Hood",
+    "BuyPrice": 100.00,
+    "SellPrice": 25.00
+  },
+  {
+    "ID": 1516,
+    "ItemName": "Arctic Military Top",
+    "BuyPrice": 80.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1517,
+    "ItemName": "Arctic Military Bottom",
+    "BuyPrice": 55.00,
+    "SellPrice": 11.00
+  },
+  {
+    "ID": 1518,
+    "ItemName": "Arctic Military Vest",
+    "BuyPrice": 90.00,
+    "SellPrice": 20.00
+  },
+  {
+    "ID": 1519,
+    "ItemName": "Arctic Military Helmet",
+    "BuyPrice": 50.00,
+    "SellPrice": 10.00
+  },
+  {
+    "ID": 1520,
+    "ItemName": "Impact Grenade",
+    "BuyPrice": 0.00,
+    "SellPrice": 200.00
+  },
+  {
+    "ID": 1522,
+    "ItemName": "CharacterMeshReplacementTest",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1525,
+    "ItemName": "Spec Ops Helmet",
+    "BuyPrice": 500.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 1691,
+    "ItemName": "Bounce Charge",
+    "BuyPrice": 0.00,
+    "SellPrice": 500.00
+  },
+  {
+    "ID": 1692,
+    "ItemName": "Christmas Tree",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1693,
+    "ItemName": "Snow Shovel",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1694,
+    "ItemName": "Candy Cane Fragments",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1695,
+    "ItemName": "Present",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1696,
+    "ItemName": "Present",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1697,
+    "ItemName": "Present",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1698,
+    "ItemName": "Present",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1699,
+    "ItemName": "Present",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1700,
+    "ItemName": "Festive Lights",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1701,
+    "ItemName": "Wreath",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1702,
+    "ItemName": "Small Ice Castle",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1703,
+    "ItemName": "Large Ice Castle",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1704,
+    "ItemName": "Saw",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1705,
+    "ItemName": "Stocking",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1706,
+    "ItemName": "Gingerbread Cookie",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1707,
+    "ItemName": "Ice Crystal",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1708,
+    "ItemName": "Drumstick",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1764,
+    "ItemName": "Housing Planner",
+    "BuyPrice": 400.00,
+    "SellPrice": 50.00
+  },
+  {
+    "ID": 1838,
+    "ItemName": "Bounce Grenade",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1839,
+    "ItemName": "Impact-Absorbing Boots",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1840,
+    "ItemName": "Midnight Black Vehicle Spraypaint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1841,
+    "ItemName": "Brilliant White Vehicle Spraypaint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1842,
+    "ItemName": "Turquoise Vehicle Spraypaint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1843,
+    "ItemName": "Azure Vehicle Spraypaint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1844,
+    "ItemName": "Magenta Vehicle Spraypaint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1845,
+    "ItemName": "Hotrod Red Vehicle Spraypaint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1846,
+    "ItemName": "Cyan Vehicle Spraypaint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1847,
+    "ItemName": "Lime Green Vehicle Spraypaint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1848,
+    "ItemName": "Electric Yellow Vehicle Spraypaint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1849,
+    "ItemName": "Medium Purple Vehicle Spraypaint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1850,
+    "ItemName": "Dark Gray Vehicle Spraypaint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1851,
+    "ItemName": "Medium Gray Vehicle Spraypaint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1852,
+    "ItemName": "Light Gray Vehicle Spraypaint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1853,
+    "ItemName": "Dark Green Vehicle Spraypaint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1854,
+    "ItemName": "Crimson Vehicle Spraypaint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1855,
+    "ItemName": "Navy Vehicle Spraypaint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1856,
+    "ItemName": "Classic Black Vehicle Spraypaint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1857,
+    "ItemName": "Classic Blue Vehicle Spraypaint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1858,
+    "ItemName": "Classic Green Vehicle Spraypaint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1859,
+    "ItemName": "Classic Orange Vehicle Spraypaint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1860,
+    "ItemName": "Classic Purple Vehicle Spraypaint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1861,
+    "ItemName": "Classic Red Vehicle Spraypaint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1862,
+    "ItemName": "Classic White Vehicle Spraypaint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1863,
+    "ItemName": "Classic Yellow Vehicle Spraypaint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1864,
+    "ItemName": "Dark Brown Vehicle Spraypaint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1865,
+    "ItemName": "Medium Brown Vehicle Spraypaint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1866,
+    "ItemName": "Lavender Vehicle Spraypaint",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 1867,
+    "ItemName": "Pike",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  }
+]

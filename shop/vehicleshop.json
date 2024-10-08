@@ -1,0 +1,1136 @@
+[
+  {
+    "ID": 1,
+    "VehicleName": "Off_Roader_Black",
+    "BuyPrice": 3375.00,
+    "SellPrice": 375.00
+  },
+  {
+    "ID": 2,
+    "VehicleName": "Off_Roader_Blue",
+    "BuyPrice": 3375.00,
+    "SellPrice": 375.00
+  },
+  {
+    "ID": 3,
+    "VehicleName": "Off_Roader_Green",
+    "BuyPrice": 3375.00,
+    "SellPrice": 375.00
+  },
+  {
+    "ID": 4,
+    "VehicleName": "Off_Roader_Orange",
+    "BuyPrice": 3375.00,
+    "SellPrice": 375.00
+  },
+  {
+    "ID": 5,
+    "VehicleName": "Off_Roader_Purple",
+    "BuyPrice": 3375.00,
+    "SellPrice": 375.00
+  },
+  {
+    "ID": 6,
+    "VehicleName": "Off_Roader_Red",
+    "BuyPrice": 3375.00,
+    "SellPrice": 375.00
+  },
+  {
+    "ID": 7,
+    "VehicleName": "Off_Roader_White",
+    "BuyPrice": 3375.00,
+    "SellPrice": 375.00
+  },
+  {
+    "ID": 8,
+    "VehicleName": "Off_Roader_Yellow",
+    "BuyPrice": 3375.00,
+    "SellPrice": 375.00
+  },
+  {
+    "ID": 9,
+    "VehicleName": "Hatchback_Black",
+    "BuyPrice": 2625.00,
+    "SellPrice": 300.00
+  },
+  {
+    "ID": 10,
+    "VehicleName": "Hatchback_Blue",
+    "BuyPrice": 2625.00,
+    "SellPrice": 300.00
+  },
+  {
+    "ID": 11,
+    "VehicleName": "Hatchback_Green",
+    "BuyPrice": 2625.00,
+    "SellPrice": 300.00
+  },
+  {
+    "ID": 12,
+    "VehicleName": "Hatchback_Orange",
+    "BuyPrice": 2625.00,
+    "SellPrice": 300.00
+  },
+  {
+    "ID": 13,
+    "VehicleName": "Hatchback_Purple",
+    "BuyPrice": 2625.00,
+    "SellPrice": 300.00
+  },
+  {
+    "ID": 14,
+    "VehicleName": "Hatchback_Red",
+    "BuyPrice": 2625.00,
+    "SellPrice": 300.00
+  },
+  {
+    "ID": 15,
+    "VehicleName": "Hatchback_White",
+    "BuyPrice": 2625.00,
+    "SellPrice": 300.00
+  },
+  {
+    "ID": 16,
+    "VehicleName": "Hatchback_Yellow",
+    "BuyPrice": 2625.00,
+    "SellPrice": 300.00
+  },
+  {
+    "ID": 17,
+    "VehicleName": "Truck_Black",
+    "BuyPrice": 3000.00,
+    "SellPrice": 337.50
+  },
+  {
+    "ID": 18,
+    "VehicleName": "Truck_Blue",
+    "BuyPrice": 3000.00,
+    "SellPrice": 337.50
+  },
+  {
+    "ID": 19,
+    "VehicleName": "Truck_Green",
+    "BuyPrice": 3000.00,
+    "SellPrice": 337.50
+  },
+  {
+    "ID": 20,
+    "VehicleName": "Truck_Orange",
+    "BuyPrice": 3000.00,
+    "SellPrice": 337.50
+  },
+  {
+    "ID": 21,
+    "VehicleName": "Truck_Purple",
+    "BuyPrice": 3000.00,
+    "SellPrice": 337.50
+  },
+  {
+    "ID": 22,
+    "VehicleName": "Truck_Red",
+    "BuyPrice": 3000.00,
+    "SellPrice": 337.50
+  },
+  {
+    "ID": 23,
+    "VehicleName": "Truck_White",
+    "BuyPrice": 3000.00,
+    "SellPrice": 337.50
+  },
+  {
+    "ID": 24,
+    "VehicleName": "Truck_Yellow",
+    "BuyPrice": 3000.00,
+    "SellPrice": 337.50
+  },
+  {
+    "ID": 25,
+    "VehicleName": "Sedan_Black",
+    "BuyPrice": 2250.00,
+    "SellPrice": 262.50
+  },
+  {
+    "ID": 26,
+    "VehicleName": "Sedan_Blue",
+    "BuyPrice": 2250.00,
+    "SellPrice": 262.50
+  },
+  {
+    "ID": 27,
+    "VehicleName": "Sedan_Green",
+    "BuyPrice": 2250.00,
+    "SellPrice": 262.50
+  },
+  {
+    "ID": 28,
+    "VehicleName": "Sedan_Orange",
+    "BuyPrice": 2250.00,
+    "SellPrice": 262.50
+  },
+  {
+    "ID": 29,
+    "VehicleName": "Sedan_Purple",
+    "BuyPrice": 2250.00,
+    "SellPrice": 262.50
+  },
+  {
+    "ID": 30,
+    "VehicleName": "Sedan_Red",
+    "BuyPrice": 2250.00,
+    "SellPrice": 262.50
+  },
+  {
+    "ID": 31,
+    "VehicleName": "Sedan_White",
+    "BuyPrice": 2250.00,
+    "SellPrice": 262.50
+  },
+  {
+    "ID": 32,
+    "VehicleName": "Sedan_Yellow",
+    "BuyPrice": 2250.00,
+    "SellPrice": 262.50
+  },
+  {
+    "ID": 33,
+    "VehicleName": "Police Car",
+    "BuyPrice": 3000.00,
+    "SellPrice": 337.50
+  },
+  {
+    "ID": 34,
+    "VehicleName": "Firetruck",
+    "BuyPrice": 2250.00,
+    "SellPrice": 262.50
+  },
+  {
+    "ID": 35,
+    "VehicleName": "Van_Black",
+    "BuyPrice": 2625.00,
+    "SellPrice": 300.00
+  },
+  {
+    "ID": 36,
+    "VehicleName": "Van_Blue",
+    "BuyPrice": 2625.00,
+    "SellPrice": 300.00
+  },
+  {
+    "ID": 37,
+    "VehicleName": "Van_Green",
+    "BuyPrice": 2625.00,
+    "SellPrice": 300.00
+  },
+  {
+    "ID": 38,
+    "VehicleName": "Van_Orange",
+    "BuyPrice": 2625.00,
+    "SellPrice": 300.00
+  },
+  {
+    "ID": 39,
+    "VehicleName": "Van_Purple",
+    "BuyPrice": 2625.00,
+    "SellPrice": 300.00
+  },
+  {
+    "ID": 40,
+    "VehicleName": "Van_Red",
+    "BuyPrice": 2625.00,
+    "SellPrice": 300.00
+  },
+  {
+    "ID": 41,
+    "VehicleName": "Van_White",
+    "BuyPrice": 2625.00,
+    "SellPrice": 300.00
+  },
+  {
+    "ID": 42,
+    "VehicleName": "Van_Yellow",
+    "BuyPrice": 2625.00,
+    "SellPrice": 300.00
+  },
+  {
+    "ID": 43,
+    "VehicleName": "Roadster_Black",
+    "BuyPrice": 3300.00,
+    "SellPrice": 360.00
+  },
+  {
+    "ID": 44,
+    "VehicleName": "Roadster_Blue",
+    "BuyPrice": 3300.00,
+    "SellPrice": 360.00
+  },
+  {
+    "ID": 45,
+    "VehicleName": "Roadster_Green",
+    "BuyPrice": 3300.00,
+    "SellPrice": 360.00
+  },
+  {
+    "ID": 46,
+    "VehicleName": "Roadster_Orange",
+    "BuyPrice": 3300.00,
+    "SellPrice": 360.00
+  },
+  {
+    "ID": 47,
+    "VehicleName": "Roadster_Purple",
+    "BuyPrice": 3300.00,
+    "SellPrice": 360.00
+  },
+  {
+    "ID": 48,
+    "VehicleName": "Roadster_Red",
+    "BuyPrice": 3300.00,
+    "SellPrice": 360.00
+  },
+  {
+    "ID": 49,
+    "VehicleName": "Roadster_White",
+    "BuyPrice": 3300.00,
+    "SellPrice": 360.00
+  },
+  {
+    "ID": 50,
+    "VehicleName": "Roadster_Yellow",
+    "BuyPrice": 3300.00,
+    "SellPrice": 360.00
+  },
+  {
+    "ID": 51,
+    "VehicleName": "Ural_Forest",
+    "BuyPrice": 3750.00,
+    "SellPrice": 400.00
+  },
+  {
+    "ID": 52,
+    "VehicleName": "Humvee_Forest",
+    "BuyPrice": 3500.00,
+    "SellPrice": 500.00
+  },
+  {
+    "ID": 53,
+    "VehicleName": "APC_Forest",
+    "BuyPrice": 6000.00,
+    "SellPrice": 1000.00
+  },
+  {
+    "ID": 54,
+    "VehicleName": "Ambulance",
+    "BuyPrice": 2250.00,
+    "SellPrice": 280.00
+  },
+  {
+    "ID": 55,
+    "VehicleName": "Ural_Desert",
+    "BuyPrice": 3750.00,
+    "SellPrice": 400.00
+  },
+  {
+    "ID": 56,
+    "VehicleName": "Humvee_Desert",
+    "BuyPrice": 3500.00,
+    "SellPrice": 500.00
+  },
+  {
+    "ID": 57,
+    "VehicleName": "APC_Desert",
+    "BuyPrice": 6000.00,
+    "SellPrice": 1000.00
+  },
+  {
+    "ID": 58,
+    "VehicleName": "Explorer",
+    "BuyPrice": 3600.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 59,
+    "VehicleName": "Snowmobile_Black",
+    "BuyPrice": 1500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 60,
+    "VehicleName": "Snowmobile_Blue",
+    "BuyPrice": 1500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 61,
+    "VehicleName": "Snowmobile_Green",
+    "BuyPrice": 1500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 62,
+    "VehicleName": "Snowmobile_Orange",
+    "BuyPrice": 1500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 63,
+    "VehicleName": "Snowmobile_Purple",
+    "BuyPrice": 1500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 64,
+    "VehicleName": "Snowmobile_Red",
+    "BuyPrice": 1500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 65,
+    "VehicleName": "Snowmobile_White",
+    "BuyPrice": 1500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 66,
+    "VehicleName": "Snowmobile_Yellow",
+    "BuyPrice": 1500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 67,
+    "VehicleName": "Quad_Black",
+    "BuyPrice": 1500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 68,
+    "VehicleName": "Quad_Blue",
+    "BuyPrice": 1500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 69,
+    "VehicleName": "Quad_Green",
+    "BuyPrice": 1500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 70,
+    "VehicleName": "Quad_Orange",
+    "BuyPrice": 1500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 71,
+    "VehicleName": "Quad_Purple",
+    "BuyPrice": 1500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 72,
+    "VehicleName": "Quad_Red",
+    "BuyPrice": 1500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 73,
+    "VehicleName": "Quad_White",
+    "BuyPrice": 1500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 74,
+    "VehicleName": "Quad_Yellow",
+    "BuyPrice": 1500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 75,
+    "VehicleName": "Golfcart",
+    "BuyPrice": 2250.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 76,
+    "VehicleName": "Taxi",
+    "BuyPrice": 3000.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 77,
+    "VehicleName": "Racecar_Black",
+    "BuyPrice": 4200.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 78,
+    "VehicleName": "Racecar_Blue",
+    "BuyPrice": 4200.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 79,
+    "VehicleName": "Racecar_Green",
+    "BuyPrice": 4200.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 80,
+    "VehicleName": "Racecar_Orange",
+    "BuyPrice": 4200.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 81,
+    "VehicleName": "Racecar_Purple",
+    "BuyPrice": 4200.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 82,
+    "VehicleName": "Racecar_Red",
+    "BuyPrice": 4200.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 83,
+    "VehicleName": "Racecar_White",
+    "BuyPrice": 4200.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 84,
+    "VehicleName": "Racecar_Yellow",
+    "BuyPrice": 4200.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 85,
+    "VehicleName": "Tractor",
+    "BuyPrice": 1350.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 86,
+    "VehicleName": "Bus",
+    "BuyPrice": 3600.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 87,
+    "VehicleName": "Jeep_Forest",
+    "BuyPrice": 3375.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 88,
+    "VehicleName": "Jeep_Desert",
+    "BuyPrice": 3375.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 89,
+    "VehicleName": "Makeshift Vehicle",
+    "BuyPrice": 2250.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 90,
+    "VehicleName": "Makeshift Vehicle",
+    "BuyPrice": 2250.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 91,
+    "VehicleName": "Makeshift Vehicle",
+    "BuyPrice": 2250.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 92,
+    "VehicleName": "Sandpiper",
+    "BuyPrice": 4000.00,
+    "SellPrice": 800.00
+  },
+  {
+    "ID": 93,
+    "VehicleName": "Huey_Forest",
+    "BuyPrice": 6000.00,
+    "SellPrice": 1000.00
+  },
+  {
+    "ID": 94,
+    "VehicleName": "Huey_Desert",
+    "BuyPrice": 6000.00,
+    "SellPrice": 1000.00
+  },
+  {
+    "ID": 95,
+    "VehicleName": "Skycrane",
+    "BuyPrice": 4500.00,
+    "SellPrice": 850.00
+  },
+  {
+    "ID": 96,
+    "VehicleName": "Otter",
+    "BuyPrice": 4000.00,
+    "SellPrice": 800.00
+  },
+  {
+    "ID": 97,
+    "VehicleName": "Runabout",
+    "BuyPrice": 1200.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 98,
+    "VehicleName": "Jetski_Black",
+    "BuyPrice": 1500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 99,
+    "VehicleName": "Jetski_Blue",
+    "BuyPrice": 1500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 100,
+    "VehicleName": "Jetski_Green",
+    "BuyPrice": 1500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 101,
+    "VehicleName": "Jetski_Orange",
+    "BuyPrice": 1500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 102,
+    "VehicleName": "Jetski_Purple",
+    "BuyPrice": 1500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 103,
+    "VehicleName": "Jetski_Red",
+    "BuyPrice": 1500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 104,
+    "VehicleName": "Jetski_White",
+    "BuyPrice": 1500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 105,
+    "VehicleName": "Jetski_Yellow",
+    "BuyPrice": 1500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 106,
+    "VehicleName": "Police Helicopter",
+    "BuyPrice": 4000.00,
+    "SellPrice": 800.00
+  },
+  {
+    "ID": 107,
+    "VehicleName": "Hummingbird",
+    "BuyPrice": 4000.00,
+    "SellPrice": 800.00
+  },
+  {
+    "ID": 108,
+    "VehicleName": "Police Launch",
+    "BuyPrice": 2400.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 109,
+    "VehicleName": "Rainbow Hatchback",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 110,
+    "VehicleName": "Volga_Black",
+    "BuyPrice": 2700.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 111,
+    "VehicleName": "Volga_Blue",
+    "BuyPrice": 2700.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 112,
+    "VehicleName": "Volga_Green",
+    "BuyPrice": 2700.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 113,
+    "VehicleName": "Volga_Orange",
+    "BuyPrice": 2700.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 114,
+    "VehicleName": "Volga_Purple",
+    "BuyPrice": 2700.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 115,
+    "VehicleName": "Volga_Red",
+    "BuyPrice": 2700.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 116,
+    "VehicleName": "Volga_White",
+    "BuyPrice": 2700.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 117,
+    "VehicleName": "Volga_Yellow",
+    "BuyPrice": 2700.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 118,
+    "VehicleName": "Toiler",
+    "BuyPrice": 3300.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 119,
+    "VehicleName": "Vodyanov",
+    "BuyPrice": 6000.00,
+    "SellPrice": 1000.00
+  },
+  {
+    "ID": 120,
+    "VehicleName": "Tank_Forest",
+    "BuyPrice": 55000.00,
+    "SellPrice": 5000.00
+  },
+  {
+    "ID": 121,
+    "VehicleName": "Tank_Desert",
+    "BuyPrice": 55000.00,
+    "SellPrice": 5000.00
+  },
+  {
+    "ID": 122,
+    "VehicleName": "Luggage Car",
+    "BuyPrice": 3000.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 123,
+    "VehicleName": "Ghost",
+    "BuyPrice": 3750.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 124,
+    "VehicleName": "Dinghy",
+    "BuyPrice": 3000.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 125,
+    "VehicleName": "SUV_Black",
+    "BuyPrice": 2250.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 126,
+    "VehicleName": "SUV_Blue",
+    "BuyPrice": 2250.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 127,
+    "VehicleName": "SUV_Green",
+    "BuyPrice": 2250.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 128,
+    "VehicleName": "SUV_Orange",
+    "BuyPrice": 2250.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 129,
+    "VehicleName": "SUV_Purple",
+    "BuyPrice": 2250.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 130,
+    "VehicleName": "SUV_Red",
+    "BuyPrice": 2250.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 131,
+    "VehicleName": "SUV_White",
+    "BuyPrice": 2250.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 132,
+    "VehicleName": "SUV_Yellow",
+    "BuyPrice": 2250.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 133,
+    "VehicleName": "Annushka",
+    "BuyPrice": 12500.00,
+    "SellPrice": 2000.00
+  },
+  {
+    "ID": 134,
+    "VehicleName": "Orca_Russia",
+    "BuyPrice": 8000.00,
+    "SellPrice": 1500.00
+  },
+  {
+    "ID": 135,
+    "VehicleName": "Hind_Russia",
+    "BuyPrice": 15000.00,
+    "SellPrice": 2500.00
+  },
+  {
+    "ID": 136,
+    "VehicleName": "Ural_Russia",
+    "BuyPrice": 3750.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 137,
+    "VehicleName": "Tank_Russia",
+    "BuyPrice": 55000.00,
+    "SellPrice": 5000.00
+  },
+  {
+    "ID": 138,
+    "VehicleName": "Tractor",
+    "BuyPrice": 1500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 139,
+    "VehicleName": "Moon Buggy",
+    "BuyPrice": 2700.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 140,
+    "VehicleName": "Fighter Jet",
+    "BuyPrice": 30000.00,
+    "SellPrice": 4000.00
+  },
+  {
+    "ID": 141,
+    "VehicleName": "Dumptruck",
+    "BuyPrice": 15000.00,
+    "SellPrice": 2500.00
+  },
+  {
+    "ID": 142,
+    "VehicleName": "Prison Truck",
+    "BuyPrice": 5250.00,
+    "SellPrice": 900.00
+  },
+  {
+    "ID": 143,
+    "VehicleName": "Humvee_Russia",
+    "BuyPrice": 3500.00,
+    "SellPrice": 500.00
+  },
+  {
+    "ID": 144,
+    "VehicleName": "Huey_Russia",
+    "BuyPrice": 6000.00,
+    "SellPrice": 1000.00
+  },
+  {
+    "ID": 145,
+    "VehicleName": "Jeep_Russia",
+    "BuyPrice": 4500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 146,
+    "VehicleName": "Jeep_Coalition",
+    "BuyPrice": 4500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 147,
+    "VehicleName": "Ural_Coalition",
+    "BuyPrice": 3750.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 148,
+    "VehicleName": "APC_Russia",
+    "BuyPrice": 6000.00,
+    "SellPrice": 1000.00
+  },
+  {
+    "ID": 149,
+    "VehicleName": "VW_Golf_Black",
+    "BuyPrice": 2700.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 150,
+    "VehicleName": "VW_Golf_Blue",
+    "BuyPrice": 2700.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 151,
+    "VehicleName": "VW_Golf_Green",
+    "BuyPrice": 2700.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 152,
+    "VehicleName": "VW_Golf_Orange",
+    "BuyPrice": 2700.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 153,
+    "VehicleName": "VW_Golf_Purple",
+    "BuyPrice": 2700.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 154,
+    "VehicleName": "VW_Golf_Red",
+    "BuyPrice": 2700.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 155,
+    "VehicleName": "VW_Golf_White",
+    "BuyPrice": 2700.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 156,
+    "VehicleName": "VW_Golf_Yellow",
+    "BuyPrice": 2700.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 157,
+    "VehicleName": "Eagle",
+    "BuyPrice": 5000.00,
+    "SellPrice": 900.00
+  },
+  {
+    "ID": 158,
+    "VehicleName": "VW_Kafer_Black",
+    "BuyPrice": 2850.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 159,
+    "VehicleName": "VW_Kafer_Blue",
+    "BuyPrice": 2850.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 160,
+    "VehicleName": "VW_Kafer_Green",
+    "BuyPrice": 2850.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 161,
+    "VehicleName": "VW_Kafer_Orange",
+    "BuyPrice": 2850.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 162,
+    "VehicleName": "VW_Kafer_Purple",
+    "BuyPrice": 2850.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 163,
+    "VehicleName": "VW_Kafer_Red",
+    "BuyPrice": 2850.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 164,
+    "VehicleName": "VW_Kafer_White",
+    "BuyPrice": 2850.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 165,
+    "VehicleName": "VW_Kafer_Yellow",
+    "BuyPrice": 2850.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 166,
+    "VehicleName": "Police Car",
+    "BuyPrice": 3000.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 167,
+    "VehicleName": "Firetruck",
+    "BuyPrice": 2250.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 168,
+    "VehicleName": "Ambulance",
+    "BuyPrice": 2250.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 169,
+    "VehicleName": "Police Helicopter",
+    "BuyPrice": 4000.00,
+    "SellPrice": 800.00
+  },
+  {
+    "ID": 170,
+    "VehicleName": "Jeep_France",
+    "BuyPrice": 4500.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 171,
+    "VehicleName": "Ural_France",
+    "BuyPrice": 3750.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 172,
+    "VehicleName": "APC_France",
+    "BuyPrice": 6000.00,
+    "SellPrice": 1000.00
+  },
+  {
+    "ID": 173,
+    "VehicleName": "Tank_France",
+    "BuyPrice": 55000.00,
+    "SellPrice": 5000.00
+  },
+  {
+    "ID": 174,
+    "VehicleName": "Hind_France",
+    "BuyPrice": 15000.00,
+    "SellPrice": 2500.00
+  },
+  {
+    "ID": 175,
+    "VehicleName": "Huey_France",
+    "BuyPrice": 6000.00,
+    "SellPrice": 1000.00
+  },
+  {
+    "ID": 176,
+    "VehicleName": "Dirtbike_Black",
+    "BuyPrice": 1500.00,
+    "SellPrice": 150.00
+  },
+  {
+    "ID": 177,
+    "VehicleName": "Dirtbike_Blue",
+    "BuyPrice": 1500.00,
+    "SellPrice": 150.00
+  },
+  {
+    "ID": 178,
+    "VehicleName": "Dirtbike_Green",
+    "BuyPrice": 1500.00,
+    "SellPrice": 150.00
+  },
+  {
+    "ID": 179,
+    "VehicleName": "Dirtbike_Orange",
+    "BuyPrice": 1500.00,
+    "SellPrice": 150.00
+  },
+  {
+    "ID": 180,
+    "VehicleName": "Dirtbike_Purple",
+    "BuyPrice": 1500.00,
+    "SellPrice": 150.00
+  },
+  {
+    "ID": 181,
+    "VehicleName": "Dirtbike_Red",
+    "BuyPrice": 1500.00,
+    "SellPrice": 150.00
+  },
+  {
+    "ID": 182,
+    "VehicleName": "Dirtbike_White",
+    "BuyPrice": 1500.00,
+    "SellPrice": 150.00
+  },
+  {
+    "ID": 183,
+    "VehicleName": "Dirtbike_Yellow",
+    "BuyPrice": 1500.00,
+    "SellPrice": 150.00
+  },
+  {
+    "ID": 184,
+    "VehicleName": "Orca_France",
+    "BuyPrice": 8000.00,
+    "SellPrice": 1500.00
+  },
+  {
+    "ID": 185,
+    "VehicleName": "Bicycle",
+    "BuyPrice": 750.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 186,
+    "VehicleName": "Cargo Train",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 187,
+    "VehicleName": "Cargo Train",
+    "BuyPrice": 0.00,
+    "SellPrice": 0.00
+  },
+  {
+    "ID": 188,
+    "VehicleName": "Police Motorcycle",
+    "BuyPrice": 2100.00,
+    "SellPrice": 225.00
+  },
+  {
+    "ID": 189,
+    "VehicleName": "Blimp",
+    "BuyPrice": 40000.00,
+    "SellPrice": 4500.00
+  }
+]
